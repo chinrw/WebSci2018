@@ -1,0 +1,7067 @@
+{
+  "result": {
+    "binance:adabtc": {
+      "price": {
+        "last": 0.00003157,
+        "high": 0.00003442,
+        "low": 0.00003149,
+        "change": {
+          "percentage": -0.07310628,
+          "absolute": -0.00000249
+        }
+      },
+      "volume": 59747230,
+      "volumeQuote": 1960.7183
+    },
+    "binance:adaeth": {
+      "price": {
+        "last": 0.00039246,
+        "high": 0.0004029,
+        "low": 0.00038888,
+        "change": {
+          "percentage": -0.016317023,
+          "absolute": -0.000006510003
+        }
+      },
+      "volume": 21476956,
+      "volumeQuote": 8525.994
+    },
+    "binance:batbtc": {
+      "price": {
+        "last": 0.00003554,
+        "high": 0.00003909,
+        "low": 0.00003459,
+        "change": {
+          "percentage": -0.07927457,
+          "absolute": -0.0000030599986
+        }
+      },
+      "volume": 2573872,
+      "volumeQuote": 95.2925
+    },
+    "binance:bateth": {
+      "price": {
+        "last": 0.00043899,
+        "high": 0.00048453,
+        "low": 0.00042281,
+        "change": {
+          "percentage": -0.024423273,
+          "absolute": -0.000010989985
+        }
+      },
+      "volume": 1026917,
+      "volumeQuote": 458.13422
+    },
+    "binance:bccbtc": {
+      "price": {
+        "last": 0.129143,
+        "high": 0.138349,
+        "low": 0.129001,
+        "change": {
+          "percentage": -0.060094625,
+          "absolute": -0.008257002
+        }
+      },
+      "volume": 7907.506,
+      "volumeQuote": 1055.1967
+    },
+    "binance:bccusdt": {
+      "price": {
+        "last": 1494.62,
+        "high": 1554.52,
+        "low": 1475.54,
+        "change": {
+          "percentage": -0.017892683,
+          "absolute": -27.22998
+        }
+      },
+      "volume": 6487.183,
+      "volumeQuote": 9842103
+    },
+    "binance:btcusdt": {
+      "price": {
+        "last": 11578.89,
+        "high": 11650,
+        "low": 10881,
+        "change": {
+          "percentage": 0.045312945,
+          "absolute": 501.9297
+        }
+      },
+      "volume": 41374.55,
+      "volumeQuote": 469326800
+    },
+    "binance:btgbtc": {
+      "price": {
+        "last": 0.011783,
+        "high": 0.012666,
+        "low": 0.01176,
+        "change": {
+          "percentage": -0.043587636,
+          "absolute": -0.00053699967
+        }
+      },
+      "volume": 13128.405,
+      "volumeQuote": 158.28917
+    },
+    "binance:btgeth": {
+      "price": {
+        "last": 0.146706,
+        "high": 0.151,
+        "low": 0.143088,
+        "change": {
+          "percentage": 0.020982502,
+          "absolute": 0.0030149966
+        }
+      },
+      "volume": 2659.2637,
+      "volumeQuote": 386.83524
+    },
+    "binance:btsbtc": {
+      "price": {
+        "last": 0.00002197,
+        "high": 0.00002429,
+        "low": 0.00002191,
+        "change": {
+          "percentage": -0.078826,
+          "absolute": -0.0000018800001
+        }
+      },
+      "volume": 9355029,
+      "volumeQuote": 214.03748
+    },
+    "binance:dashbtc": {
+      "price": {
+        "last": 0.063,
+        "high": 0.066212,
+        "low": 0.063,
+        "change": {
+          "percentage": -0.030933242,
+          "absolute": -0.002011001
+        }
+      },
+      "volume": 4652.4536,
+      "volumeQuote": 296.86194
+    },
+    "binance:dasheth": {
+      "price": {
+        "last": 0.7827,
+        "high": 0.78698,
+        "low": 0.75896,
+        "change": {
+          "percentage": 0.026801566,
+          "absolute": 0.020430028
+        }
+      },
+      "volume": 795.0562,
+      "volumeQuote": 612.7458
+    },
+    "binance:edobtc": {
+      "price": {
+        "last": 0.0002665,
+        "high": 0.0002843,
+        "low": 0.0002626,
+        "change": {
+          "percentage": -0.037211053,
+          "absolute": -0.00001030002
+        }
+      },
+      "volume": 371377.4,
+      "volumeQuote": 101.317696
+    },
+    "binance:edoeth": {
+      "price": {
+        "last": 0.003292,
+        "high": 0.00343,
+        "low": 0.003203,
+        "change": {
+          "percentage": 0.01604936,
+          "absolute": 0.00005199993
+        }
+      },
+      "volume": 94234.11,
+      "volumeQuote": 309.57642
+    },
+    "binance:elfbtc": {
+      "price": {
+        "last": 0.0001288,
+        "high": 0.000145,
+        "low": 0.00012805,
+        "change": {
+          "percentage": -0.07670247,
+          "absolute": -0.000010699994
+        }
+      },
+      "volume": 1771858,
+      "volumeQuote": 240.56955
+    },
+    "binance:elfeth": {
+      "price": {
+        "last": 0.0016,
+        "high": 0.00169785,
+        "low": 0.00156003,
+        "change": {
+          "percentage": -0.018266426,
+          "absolute": -0.000029770075
+        }
+      },
+      "volume": 891427,
+      "volumeQuote": 1444.0289
+    },
+    "binance:eosbtc": {
+      "price": {
+        "last": 0.0008097,
+        "high": 0.00086175,
+        "low": 0.0008097,
+        "change": {
+          "percentage": -0.05567737,
+          "absolute": -0.000047740003
+        }
+      },
+      "volume": 1496026,
+      "volumeQuote": 1253.5736
+    },
+    "binance:eoseth": {
+      "price": {
+        "last": 0.010497,
+        "high": 0.010775,
+        "low": 0.01038,
+        "change": {
+          "percentage": 0.00066728506,
+          "absolute": 0.0000069998205
+        }
+      },
+      "volume": 1654934.1,
+      "volumeQuote": 17533.238
+    },
+    "binance:etcbtc": {
+      "price": {
+        "last": 0.003426,
+        "high": 0.003756,
+        "low": 0.00341,
+        "change": {
+          "percentage": -0.014100693,
+          "absolute": -0.000048999907
+        }
+      },
+      "volume": 2568966.5,
+      "volumeQuote": 9170.615
+    },
+    "binance:etceth": {
+      "price": {
+        "last": 0.042622,
+        "high": 0.045399,
+        "low": 0.04043,
+        "change": {
+          "percentage": 0.04817647,
+          "absolute": 0.0019589998
+        }
+      },
+      "volume": 437482,
+      "volumeQuote": 18833.518
+    },
+    "binance:ethbtc": {
+      "price": {
+        "last": 0.080499,
+        "high": 0.085894,
+        "low": 0.070828,
+        "change": {
+          "percentage": -0.057300422,
+          "absolute": -0.0048929974
+        }
+      },
+      "volume": 99413.17,
+      "volumeQuote": 8246.014
+    },
+    "binance:ethusdt": {
+      "price": {
+        "last": 932.45,
+        "high": 961,
+        "low": 927.1,
+        "change": {
+          "percentage": -0.014219275,
+          "absolute": -13.450012
+        }
+      },
+      "volume": 88471.914,
+      "volumeQuote": 83320870
+    },
+    "binance:funbtc": {
+      "price": {
+        "last": 0.00000513,
+        "high": 0.00000577,
+        "low": 0.00000511,
+        "change": {
+          "percentage": -0.0806452,
+          "absolute": -4.5000024e-7
+        }
+      },
+      "volume": 33727096,
+      "volumeQuote": 184.59781
+    },
+    "binance:funeth": {
+      "price": {
+        "last": 0.00006366,
+        "high": 0.00006867,
+        "low": 0.00006353,
+        "change": {
+          "percentage": -0.027497696,
+          "absolute": -0.0000017999992
+        }
+      },
+      "volume": 14990254,
+      "volumeQuote": 986.97723
+    },
+    "binance:gasbtc": {
+      "price": {
+        "last": 0.00405,
+        "high": 0.004469,
+        "low": 0.00405,
+        "change": {
+          "percentage": -0.04705885,
+          "absolute": -0.00020000013
+        }
+      },
+      "volume": 43711.492,
+      "volumeQuote": 186.12439
+    },
+    "binance:icnbtc": {
+      "price": {
+        "last": 0.00014649,
+        "high": 0.00017123,
+        "low": 0.00014485,
+        "change": {
+          "percentage": -0.14162664,
+          "absolute": -0.000024170004
+        }
+      },
+      "volume": 221292,
+      "volumeQuote": 35.02567
+    },
+    "binance:icneth": {
+      "price": {
+        "last": 0.0018133,
+        "high": 0.0020627,
+        "low": 0.0017916,
+        "change": {
+          "percentage": -0.09664728,
+          "absolute": -0.00019400008
+        }
+      },
+      "volume": 126361,
+      "volumeQuote": 241.06163
+    },
+    "binance:icxbtc": {
+      "price": {
+        "last": 0.0003923,
+        "high": 0.0004433,
+        "low": 0.0003876,
+        "change": {
+          "percentage": -0.081264645,
+          "absolute": -0.000034700002
+        }
+      },
+      "volume": 6602611,
+      "volumeQuote": 2732.9812
+    },
+    "binance:icxeth": {
+      "price": {
+        "last": 0.004876,
+        "high": 0.005179,
+        "low": 0.0048,
+        "change": {
+          "percentage": -0.022649862,
+          "absolute": -0.00011300016
+        }
+      },
+      "volume": 1771267.6,
+      "volumeQuote": 8850.101
+    },
+    "binance:lskbtc": {
+      "price": {
+        "last": 0.0024194,
+        "high": 0.0027135,
+        "low": 0.002346,
+        "change": {
+          "percentage": -0.093823716,
+          "absolute": -0.00025049993
+        }
+      },
+      "volume": 811608.75,
+      "volumeQuote": 2042.5079
+    },
+    "binance:lsketh": {
+      "price": {
+        "last": 0.030163,
+        "high": 0.032161,
+        "low": 0.027899,
+        "change": {
+          "percentage": -0.03604874,
+          "absolute": -0.0011280011
+        }
+      },
+      "volume": 194155.11,
+      "volumeQuote": 5899.612
+    },
+    "binance:ltcbtc": {
+      "price": {
+        "last": 0.02115,
+        "high": 0.022114,
+        "low": 0.01927,
+        "change": {
+          "percentage": 0.05009684,
+          "absolute": 0.0010090005
+        }
+      },
+      "volume": 321248.97,
+      "volumeQuote": 6740.2456
+    },
+    "binance:ltceth": {
+      "price": {
+        "last": 0.2624,
+        "high": 0.26799,
+        "low": 0.23301,
+        "change": {
+          "percentage": 0.113043465,
+          "absolute": 0.026649997
+        }
+      },
+      "volume": 59006.996,
+      "volumeQuote": 14939.579
+    },
+    "binance:ltcusdt": {
+      "price": {
+        "last": 244.88,
+        "high": 254.8,
+        "low": 220.06,
+        "change": {
+          "percentage": 0.09762438,
+          "absolute": 21.779999
+        }
+      },
+      "volume": 410021.7,
+      "volumeQuote": 98274990
+    },
+    "binance:navbtc": {
+      "price": {
+        "last": 0.0001723,
+        "high": 0.0001899,
+        "low": 0.0001703,
+        "change": {
+          "percentage": -0.054335907,
+          "absolute": -0.000009900003
+        }
+      },
+      "volume": 280560.78,
+      "volumeQuote": 50.997116
+    },
+    "binance:neobtc": {
+      "price": {
+        "last": 0.01159,
+        "high": 0.012296,
+        "low": 0.011586,
+        "change": {
+          "percentage": -0.04585493,
+          "absolute": -0.0005569998
+        }
+      },
+      "volume": 170261.1,
+      "volumeQuote": 2042.5078
+    },
+    "binance:neoeth": {
+      "price": {
+        "last": 0.143999,
+        "high": 0.1485,
+        "low": 0.141,
+        "change": {
+          "percentage": 0.011619651,
+          "absolute": 0.0016539991
+        }
+      },
+      "volume": 78504.93,
+      "volumeQuote": 11360.75
+    },
+    "binance:neousdt": {
+      "price": {
+        "last": 134.379,
+        "high": 140.849,
+        "low": 132,
+        "change": {
+          "percentage": -0.00090712536,
+          "absolute": -0.12200928
+        }
+      },
+      "volume": 247078.17,
+      "volumeQuote": 33664240
+    },
+    "binance:omgbtc": {
+      "price": {
+        "last": 0.001636,
+        "high": 0.001692,
+        "low": 0.001543,
+        "change": {
+          "percentage": 0.026993081,
+          "absolute": 0.000042999978
+        }
+      },
+      "volume": 469066.88,
+      "volumeQuote": 754.0358
+    },
+    "binance:omgeth": {
+      "price": {
+        "last": 0.020316,
+        "high": 0.02077,
+        "low": 0.018352,
+        "change": {
+          "percentage": 0.08851257,
+          "absolute": 0.0016519986
+        }
+      },
+      "volume": 208551.55,
+      "volumeQuote": 4057.1504
+    },
+    "binance:qtumbtc": {
+      "price": {
+        "last": 0.00265,
+        "high": 0.00285,
+        "low": 0.002543,
+        "change": {
+          "percentage": -0.06558534,
+          "absolute": -0.00018600002
+        }
+      },
+      "volume": 107889.33,
+      "volumeQuote": 294.92105
+    },
+    "binance:qtumeth": {
+      "price": {
+        "last": 0.032847,
+        "high": 0.03379,
+        "low": 0.032212,
+        "change": {
+          "percentage": -0.016026605,
+          "absolute": -0.0005350001
+        }
+      },
+      "volume": 21067.041,
+      "volumeQuote": 696.1048
+    },
+    "binance:rcnbtc": {
+      "price": {
+        "last": 0.00001479,
+        "high": 0.00001685,
+        "low": 0.00001439,
+        "change": {
+          "percentage": -0.10688403,
+          "absolute": -0.0000017699995
+        }
+      },
+      "volume": 3635621,
+      "volumeQuote": 56.464123
+    },
+    "binance:rcneth": {
+      "price": {
+        "last": 0.00018156,
+        "high": 0.00020299,
+        "low": 0.00018006,
+        "change": {
+          "percentage": -0.06320626,
+          "absolute": -0.000012250006
+        }
+      },
+      "volume": 2413978,
+      "volumeQuote": 455.8086
+    },
+    "binance:sntbtc": {
+      "price": {
+        "last": 0.00001756,
+        "high": 0.00001944,
+        "low": 0.00001742,
+        "change": {
+          "percentage": -0.0920372,
+          "absolute": -0.0000017799994
+        }
+      },
+      "volume": 6453170,
+      "volumeQuote": 118.13245
+    },
+    "binance:snteth": {
+      "price": {
+        "last": 0.000218,
+        "high": 0.00022899,
+        "low": 0.00021466,
+        "change": {
+          "percentage": -0.03744259,
+          "absolute": -0.000008479998
+        }
+      },
+      "volume": 1799050,
+      "volumeQuote": 398.30893
+    },
+    "binance:steembtc": {
+      "price": {
+        "last": 0.000351,
+        "high": 0.000399,
+        "low": 0.00035,
+        "change": {
+          "percentage": -0.08831168,
+          "absolute": -0.000033999997
+        }
+      },
+      "volume": 218422.22,
+      "volumeQuote": 80.78408
+    },
+    "binance:steemeth": {
+      "price": {
+        "last": 0.004344,
+        "high": 0.004645,
+        "low": 0.004313,
+        "change": {
+          "percentage": -0.03573808,
+          "absolute": -0.00016100006
+        }
+      },
+      "volume": 53153.863,
+      "volumeQuote": 237.48042
+    },
+    "binance:storjbtc": {
+      "price": {
+        "last": 0.00009304,
+        "high": 0.00010665,
+        "low": 0.00009,
+        "change": {
+          "percentage": -0.09582118,
+          "absolute": -0.000009859999
+        }
+      },
+      "volume": 367879,
+      "volumeQuote": 36.41631
+    },
+    "binance:stratbtc": {
+      "price": {
+        "last": 0.000817,
+        "high": 0.000922,
+        "low": 0.000815,
+        "change": {
+          "percentage": -0.064146645,
+          "absolute": -0.00005600002
+        }
+      },
+      "volume": 625691.25,
+      "volumeQuote": 540.1355
+    },
+    "binance:strateth": {
+      "price": {
+        "last": 0.0101,
+        "high": 0.010939,
+        "low": 0.010045,
+        "change": {
+          "percentage": -0.013190111,
+          "absolute": -0.0001350008
+        }
+      },
+      "volume": 96702.984,
+      "volumeQuote": 1002.9907
+    },
+    "binance:tnbbtc": {
+      "price": {
+        "last": 0.00000637,
+        "high": 0.00000718,
+        "low": 0.00000636,
+        "change": {
+          "percentage": -0.09000002,
+          "absolute": -6.3000016e-7
+        }
+      },
+      "volume": 14696739,
+      "volumeQuote": 100.17366
+    },
+    "binance:tnbeth": {
+      "price": {
+        "last": 0.00007901,
+        "high": 0.00008466,
+        "low": 0.00007901,
+        "change": {
+          "percentage": -0.035404716,
+          "absolute": -0.0000029000003
+        }
+      },
+      "volume": 5473334,
+      "volumeQuote": 447.00128
+    },
+    "binance:trxbtc": {
+      "price": {
+        "last": 0.00000424,
+        "high": 0.00000468,
+        "low": 0.00000422,
+        "change": {
+          "percentage": -0.084233254,
+          "absolute": -3.8999997e-7
+        }
+      },
+      "volume": 939678800,
+      "volumeQuote": 4194.87
+    },
+    "binance:trxeth": {
+      "price": {
+        "last": 0.00005266,
+        "high": 0.00005525,
+        "low": 0.00005242,
+        "change": {
+          "percentage": -0.029129786,
+          "absolute": -0.0000015799997
+        }
+      },
+      "volume": 526839780,
+      "volumeQuote": 28457.285
+    },
+    "binance:viabtc": {
+      "price": {
+        "last": 0.0002793,
+        "high": 0.0003335,
+        "low": 0.0002728,
+        "change": {
+          "percentage": -0.101062134,
+          "absolute": -0.000031400006
+        }
+      },
+      "volume": 144026.94,
+      "volumeQuote": 43.47504
+    },
+    "binance:xmrbtc": {
+      "price": {
+        "last": 0.027027,
+        "high": 0.02836,
+        "low": 0.027026,
+        "change": {
+          "percentage": -0.03992754,
+          "absolute": -0.0011240002
+        }
+      },
+      "volume": 11081.02,
+      "volumeQuote": 306.63614
+    },
+    "binance:xmreth": {
+      "price": {
+        "last": 0.33554,
+        "high": 0.33799,
+        "low": 0.32662,
+        "change": {
+          "percentage": 0.013501648,
+          "absolute": 0.0044699907
+        }
+      },
+      "volume": 5500.7715,
+      "volumeQuote": 1833.2313
+    },
+    "binance:xrpbtc": {
+      "price": {
+        "last": 0.00009359,
+        "high": 0.0001015,
+        "low": 0.0000934,
+        "change": {
+          "percentage": -0.06866349,
+          "absolute": -0.0000068999943
+        }
+      },
+      "volume": 30475152,
+      "volumeQuote": 2965.6096
+    },
+    "binance:xrpeth": {
+      "price": {
+        "last": 0.0011625,
+        "high": 0.001185,
+        "low": 0.00115785,
+        "change": {
+          "percentage": -0.011899694,
+          "absolute": -0.00001399999
+        }
+      },
+      "volume": 8552310,
+      "volumeQuote": 10025.553
+    },
+    "binance:xvgbtc": {
+      "price": {
+        "last": 0.00000655,
+        "high": 0.00000775,
+        "low": 0.00000654,
+        "change": {
+          "percentage": -0.119623676,
+          "absolute": -8.9000014e-7
+        }
+      },
+      "volume": 292787840,
+      "volumeQuote": 2108.6062
+    },
+    "binance:zecbtc": {
+      "price": {
+        "last": 0.039477,
+        "high": 0.0437,
+        "low": 0.039133,
+        "change": {
+          "percentage": -0.07097645,
+          "absolute": -0.0030160025
+        }
+      },
+      "volume": 8082.2783,
+      "volumeQuote": 334.5661
+    },
+    "binance:zeceth": {
+      "price": {
+        "last": 0.49065,
+        "high": 0.516,
+        "low": 0.48368,
+        "change": {
+          "percentage": -0.01473928,
+          "absolute": -0.007340014
+        }
+      },
+      "volume": 1384.403,
+      "volumeQuote": 690.2902
+    },
+    "binance:zrxbtc": {
+      "price": {
+        "last": 0.00009735,
+        "high": 0.0001099,
+        "low": 0.0000969,
+        "change": {
+          "percentage": -0.08754336,
+          "absolute": -0.000009340001
+        }
+      },
+      "volume": 2215469,
+      "volumeQuote": 228.58125
+    },
+    "binance:zrxeth": {
+      "price": {
+        "last": 0.00120079,
+        "high": 0.00137,
+        "low": 0.0012,
+        "change": {
+          "percentage": -0.03872201,
+          "absolute": -0.000048369984
+        }
+      },
+      "volume": 1176324,
+      "volumeQuote": 1465.6832
+    },
+    "bitfinex:avtbtc": {
+      "price": {
+        "last": 0.00021011,
+        "high": 0.00023399,
+        "low": 0.00021011,
+        "change": {
+          "percentage": -0.09824035,
+          "absolute": -0.000022890003
+        }
+      },
+      "volume": 30487.475,
+      "volumeQuote": 6.697687
+    },
+    "bitfinex:avteth": {
+      "price": {
+        "last": 0.00261,
+        "high": 0.0031566,
+        "low": 0.002601,
+        "change": {
+          "percentage": -0.033619665,
+          "absolute": -0.00009079999
+        }
+      },
+      "volume": 18882.064,
+      "volumeQuote": 51.244415
+    },
+    "bitfinex:avtusd": {
+      "price": {
+        "last": 2.4517,
+        "high": 2.599,
+        "low": 2.4,
+        "change": {
+          "percentage": -0.038549013,
+          "absolute": -0.09829998
+        }
+      },
+      "volume": 62482.86,
+      "volumeQuote": 156801.86
+    },
+    "bitfinex:batbtc": {
+      "price": {
+        "last": 0.00003574,
+        "high": 0.000039,
+        "low": 0.00003516,
+        "change": {
+          "percentage": -0.0748124,
+          "absolute": -0.000002890003
+        }
+      },
+      "volume": 190658.58,
+      "volumeQuote": 7.059786
+    },
+    "bitfinex:bateth": {
+      "price": {
+        "last": 0.00044855,
+        "high": 0.0004648,
+        "low": 0.00043,
+        "change": {
+          "percentage": -0.011786699,
+          "absolute": -0.0000053499825
+        }
+      },
+      "volume": 296531.94,
+      "volumeQuote": 132.63983
+    },
+    "bitfinex:batusd": {
+      "price": {
+        "last": 0.4126,
+        "high": 0.44325,
+        "low": 0.40111,
+        "change": {
+          "percentage": -0.042246938,
+          "absolute": -0.01819998
+        }
+      },
+      "volume": 433426.88,
+      "volumeQuote": 182493.31
+    },
+    "bitfinex:bccbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bccusd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bchbtc": {
+      "price": {
+        "last": 0.12938,
+        "high": 0.13794,
+        "low": 0.12913,
+        "change": {
+          "percentage": -0.05850674,
+          "absolute": -0.008039996
+        }
+      },
+      "volume": 7782.8306,
+      "volumeQuote": 1035.2953
+    },
+    "bitfinex:bcheth": {
+      "price": {
+        "last": 1.5954,
+        "high": 1.64,
+        "low": 1.5939,
+        "change": {
+          "percentage": -0.009990722,
+          "absolute": -0.016100049
+        }
+      },
+      "volume": 240.2898,
+      "volumeQuote": 387.41013
+    },
+    "bitfinex:bchusd": {
+      "price": {
+        "last": 1495.8,
+        "high": 1555.9,
+        "low": 1477,
+        "change": {
+          "percentage": -0.016309304,
+          "absolute": -24.799927
+        }
+      },
+      "volume": 24097.28,
+      "volumeQuote": 36544972
+    },
+    "bitfinex:bcubtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bcuusd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bt1btc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bt1usd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bt2btc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:bt2usd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:btceur": {
+      "price": {
+        "last": 9375.6,
+        "high": 9446.3,
+        "low": 8790.977,
+        "change": {
+          "percentage": 0.049899172,
+          "absolute": 445.5996
+        }
+      },
+      "volume": 3465.6294,
+      "volumeQuote": 31706202
+    },
+    "bitfinex:btcusd": {
+      "price": {
+        "last": 11577,
+        "high": 11666,
+        "low": 10900,
+        "change": {
+          "percentage": 0.044761304,
+          "absolute": 496
+        }
+      },
+      "volume": 54931.586,
+      "volumeQuote": 622290100
+    },
+    "bitfinex:btgbtc": {
+      "price": {
+        "last": 0.011818,
+        "high": 0.01267,
+        "low": 0.011764,
+        "change": {
+          "percentage": -0.03903073,
+          "absolute": -0.00047999993
+        }
+      },
+      "volume": 13170.77,
+      "volumeQuote": 158.83693
+    },
+    "bitfinex:btgusd": {
+      "price": {
+        "last": 137.18,
+        "high": 142,
+        "low": 132.55,
+        "change": {
+          "percentage": 0.008676417,
+          "absolute": 1.1799927
+        }
+      },
+      "volume": 17940.229,
+      "volumeQuote": 2464379
+    },
+    "bitfinex:dashbtc": {
+      "price": {
+        "last": 0.06297,
+        "high": 0.06611,
+        "low": 0.06273,
+        "change": {
+          "percentage": -0.031156255,
+          "absolute": -0.0020250008
+        }
+      },
+      "volume": 8871.977,
+      "volumeQuote": 566.37396
+    },
+    "bitfinex:dashusd": {
+      "price": {
+        "last": 728.9,
+        "high": 736.98,
+        "low": 710.5,
+        "change": {
+          "percentage": 0.009417046,
+          "absolute": 6.800049
+        }
+      },
+      "volume": 10837.003,
+      "volumeQuote": 7861656
+    },
+    "bitfinex:databtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:dataeth": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:datausd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "bitfinex:datbtc": {
+      "price": {
+        "last": 0.00001017,
+        "high": 0.00001141,
+        "low": 0.00001,
+        "change": {
+          "percentage": -0.10238309,
+          "absolute": -0.0000011600005
+        }
+      },
+      "volume": 447276.53,
+      "volumeQuote": 4.7374616
+    },
+    "bitfinex:dateth": {
+      "price": {
+        "last": 0.00012722,
+        "high": 0.0001342,
+        "low": 0.00012247,
+        "change": {
+          "percentage": -0.052011926,
+          "absolute": -0.0000069800008
+        }
+      },
+      "volume": 299636.3,
+      "volumeQuote": 38.149323
+    },
+    "bitfinex:datusd": {
+      "price": {
+        "last": 0.1177,
+        "high": 0.1251,
+        "low": 0.1126,
+        "change": {
+          "percentage": -0.059152666,
+          "absolute": -0.0073999986
+        }
+      },
+      "volume": 4742951.5,
+      "volumeQuote": 567882.94
+    },
+    "bitfinex:edobtc": {
+      "price": {
+        "last": 0.00026727,
+        "high": 0.00028289,
+        "low": 0.0002648,
+        "change": {
+          "percentage": -0.032856945,
+          "absolute": -0.000009080017
+        }
+      },
+      "volume": 709797.6,
+      "volumeQuote": 196.64902
+    },
+    "bitfinex:edoeth": {
+      "price": {
+        "last": 0.0033391,
+        "high": 0.0034,
+        "low": 0.0030438,
+        "change": {
+          "percentage": 0.03911742,
+          "absolute": 0.00012569991
+        }
+      },
+      "volume": 30961.113,
+      "volumeQuote": 102.90452
+    },
+    "bitfinex:edousd": {
+      "price": {
+        "last": 3.0835,
+        "high": 3.2162,
+        "low": 3.02,
+        "change": {
+          "percentage": 0.017623115,
+          "absolute": 0.0533998
+        }
+      },
+      "volume": 431632.78,
+      "volumeQuote": 1349690.9
+    },
+    "bitfinex:elfbtc": {
+      "price": {
+        "last": 0.00012759,
+        "high": 0.0001419,
+        "low": 0.00012759,
+        "change": {
+          "percentage": -0.08733907,
+          "absolute": -0.000012210003
+        }
+      },
+      "volume": 31534.83,
+      "volumeQuote": 4.2761497
+    },
+    "bitfinex:elfeth": {
+      "price": {
+        "last": 0.001569,
+        "high": 0.0016676,
+        "low": 0.001569,
+        "change": {
+          "percentage": -0.045562375,
+          "absolute": -0.00007489999
+        }
+      },
+      "volume": 24158.072,
+      "volumeQuote": 38.928036
+    },
+    "bitfinex:elfusd": {
+      "price": {
+        "last": 1.498,
+        "high": 1.6,
+        "low": 1.4666,
+        "change": {
+          "percentage": -0.03354834,
+          "absolute": -0.051999927
+        }
+      },
+      "volume": 85800.43,
+      "volumeQuote": 132003.6
+    },
+    "bitfinex:eosbtc": {
+      "price": {
+        "last": 0.00081017,
+        "high": 0.00086057,
+        "low": 0.00081017,
+        "change": {
+          "percentage": -0.053915463,
+          "absolute": -0.000046169967
+        }
+      },
+      "volume": 599036.75,
+      "volumeQuote": 502.12805
+    },
+    "bitfinex:eoseth": {
+      "price": {
+        "last": 0.010043,
+        "high": 0.010342,
+        "low": 0.0099127,
+        "change": {
+          "percentage": -0.0005971252,
+          "absolute": -0.0000060005113
+        }
+      },
+      "volume": 498825.94,
+      "volumeQuote": 5046.456
+    },
+    "bitfinex:eosusd": {
+      "price": {
+        "last": 9.4,
+        "high": 9.796,
+        "low": 9.299,
+        "change": {
+          "percentage": -0.009201807,
+          "absolute": -0.0873003
+        }
+      },
+      "volume": 2511743.8,
+      "volumeQuote": 23925244
+    },
+    "bitfinex:etcbtc": {
+      "price": {
+        "last": 0.00343,
+        "high": 0.00374,
+        "low": 0.0034187,
+        "change": {
+          "percentage": -0.012039822,
+          "absolute": -0.000041799853
+        }
+      },
+      "volume": 510720.3,
+      "volumeQuote": 1823.6283
+    },
+    "bitfinex:etcusd": {
+      "price": {
+        "last": 39.771,
+        "high": 42.849,
+        "low": 37.754,
+        "change": {
+          "percentage": 0.034141134,
+          "absolute": 1.3129997
+        }
+      },
+      "volume": 1902309,
+      "volumeQuote": 76985290
+    },
+    "bitfinex:ethbtc": {
+      "price": {
+        "last": 0.08064,
+        "high": 0.085979,
+        "low": 0.08055,
+        "change": {
+          "percentage": -0.054686066,
+          "absolute": -0.004664995
+        }
+      },
+      "volume": 43279.4,
+      "volumeQuote": 3579.3135
+    },
+    "bitfinex:ethusd": {
+      "price": {
+        "last": 930.99,
+        "high": 959,
+        "low": 925,
+        "change": {
+          "percentage": -0.01604362,
+          "absolute": -15.179993
+        }
+      },
+      "volume": 115011.96,
+      "volumeQuote": 108255420
+    },
+    "bitfinex:etpbtc": {
+      "price": {
+        "last": 0.00017289,
+        "high": 0.0002013,
+        "low": 0.0001467,
+        "change": {
+          "percentage": -0.11943569,
+          "absolute": -0.000023450004
+        }
+      },
+      "volume": 190056.72,
+      "volumeQuote": 32.710278
+    },
+    "bitfinex:etpeth": {
+      "price": {
+        "last": 0.0021673,
+        "high": 0.002363,
+        "low": 0.0018997,
+        "change": {
+          "percentage": -0.038763456,
+          "absolute": -0.00008739997
+        }
+      },
+      "volume": 76139.05,
+      "volumeQuote": 163.34912
+    },
+    "bitfinex:etpusd": {
+      "price": {
+        "last": 2.0088,
+        "high": 2.2641,
+        "low": 1.72,
+        "change": {
+          "percentage": -0.06480446,
+          "absolute": -0.13919997
+        }
+      },
+      "volume": 1001582.06,
+      "volumeQuote": 1983986.1
+    },
+    "bitfinex:funbtc": {
+      "price": {
+        "last": 0.00000515,
+        "high": 0.00000573,
+        "low": 0.00000513,
+        "change": {
+          "percentage": -0.072072044,
+          "absolute": -3.9999986e-7
+        }
+      },
+      "volume": 2227931,
+      "volumeQuote": 12.047232
+    },
+    "bitfinex:funeth": {
+      "price": {
+        "last": 0.00006371,
+        "high": 0.00006819,
+        "low": 0.00006351,
+        "change": {
+          "percentage": -0.019846126,
+          "absolute": -0.0000012899982
+        }
+      },
+      "volume": 949056.7,
+      "volumeQuote": 62.31636
+    },
+    "bitfinex:funusd": {
+      "price": {
+        "last": 0.05958,
+        "high": 0.0649,
+        "low": 0.0583,
+        "change": {
+          "percentage": -0.031219568,
+          "absolute": -0.0019200034
+        }
+      },
+      "volume": 4254663.5,
+      "volumeQuote": 260661.88
+    },
+    "bitfinex:gntbtc": {
+      "price": {
+        "last": 0.00003507,
+        "high": 0.0000408,
+        "low": 0.00003467,
+        "change": {
+          "percentage": -0.13193068,
+          "absolute": -0.000005329999
+        }
+      },
+      "volume": 517251.1,
+      "volumeQuote": 19.778408
+    },
+    "bitfinex:gnteth": {
+      "price": {
+        "last": 0.00043663,
+        "high": 0.00047849,
+        "low": 0.0004292,
+        "change": {
+          "percentage": -0.07942229,
+          "absolute": -0.00003766999
+        }
+      },
+      "volume": 136776.86,
+      "volumeQuote": 61.38185
+    },
+    "bitfinex:gntusd": {
+      "price": {
+        "last": 0.40497,
+        "high": 0.44789,
+        "low": 0.40291,
+        "change": {
+          "percentage": -0.09441177,
+          "absolute": -0.042219996
+        }
+      },
+      "volume": 4075082.5,
+      "volumeQuote": 1747052
+    },
+    "bitfinex:iotbtc": {
+      "price": {
+        "last": 0.00017338,
+        "high": 0.00018988,
+        "low": 0.0001726,
+        "change": {
+          "percentage": -0.08235418,
+          "absolute": -0.00001556
+        }
+      },
+      "volume": 2618669.2,
+      "volumeQuote": 470.69275
+    },
+    "bitfinex:ioteth": {
+      "price": {
+        "last": 0.0021492,
+        "high": 0.00225,
+        "low": 0.0021205,
+        "change": {
+          "percentage": -0.03193548,
+          "absolute": -0.00007089996
+        }
+      },
+      "volume": 440861.44,
+      "volumeQuote": 961.2622
+    },
+    "bitfinex:ioteur": {
+      "price": {
+        "last": 1.6293613,
+        "high": 1.7042,
+        "low": 1.604,
+        "change": {
+          "percentage": -0.03656501,
+          "absolute": -0.061838746
+        }
+      },
+      "volume": 215376.75,
+      "volumeQuote": 356177.9
+    },
+    "bitfinex:iotusd": {
+      "price": {
+        "last": 2.011,
+        "high": 2.12,
+        "low": 1.9817,
+        "change": {
+          "percentage": -0.041148204,
+          "absolute": -0.086300135
+        }
+      },
+      "volume": 5514555,
+      "volumeQuote": 11302288
+    },
+    "bitfinex:ltcbtc": {
+      "price": {
+        "last": 0.021137,
+        "high": 0.022,
+        "low": 0.0193,
+        "change": {
+          "percentage": 0.050703354,
+          "absolute": 0.0010199994
+        }
+      },
+      "volume": 87222.19,
+      "volumeQuote": 1812.7797
+    },
+    "bitfinex:ltcusd": {
+      "price": {
+        "last": 244.5,
+        "high": 252.86,
+        "low": 220.35,
+        "change": {
+          "percentage": 0.09493953,
+          "absolute": 21.199997
+        }
+      },
+      "volume": 513683.16,
+      "volumeQuote": 122515070
+    },
+    "bitfinex:neobtc": {
+      "price": {
+        "last": 0.011616,
+        "high": 0.012312,
+        "low": 0.011616,
+        "change": {
+          "percentage": -0.043714505,
+          "absolute": -0.0005310001
+        }
+      },
+      "volume": 20175.145,
+      "volumeQuote": 241.36223
+    },
+    "bitfinex:neoeth": {
+      "price": {
+        "last": 0.1444,
+        "high": 0.14823,
+        "low": 0.14128,
+        "change": {
+          "percentage": 0.0112044625,
+          "absolute": 0.0015999973
+        }
+      },
+      "volume": 5351.94,
+      "volumeQuote": 775.084
+    },
+    "bitfinex:neousd": {
+      "price": {
+        "last": 134.44,
+        "high": 141.16,
+        "low": 131.51,
+        "change": {
+          "percentage": -0.0015595356,
+          "absolute": -0.20999146
+        }
+      },
+      "volume": 132844.47,
+      "volumeQuote": 18128918
+    },
+    "bitfinex:omgbtc": {
+      "price": {
+        "last": 0.0016387,
+        "high": 0.001687,
+        "low": 0.0015463,
+        "change": {
+          "percentage": 0.030628944,
+          "absolute": 0.00004870002
+        }
+      },
+      "volume": 161564.62,
+      "volumeQuote": 258.19443
+    },
+    "bitfinex:omgeth": {
+      "price": {
+        "last": 0.020336,
+        "high": 0.020802,
+        "low": 0.018387,
+        "change": {
+          "percentage": 0.095040634,
+          "absolute": 0.0017649997
+        }
+      },
+      "volume": 35897.54,
+      "volumeQuote": 694.90436
+    },
+    "bitfinex:omgusd": {
+      "price": {
+        "last": 18.99,
+        "high": 19.485,
+        "low": 17.16,
+        "change": {
+          "percentage": 0.077446796,
+          "absolute": 1.3649998
+        }
+      },
+      "volume": 871027.7,
+      "volumeQuote": 15873536
+    },
+    "bitfinex:qtumbtc": {
+      "price": {
+        "last": 0.0026443,
+        "high": 0.0028518,
+        "low": 0.0026443,
+        "change": {
+          "percentage": -0.060973022,
+          "absolute": -0.00017170003
+        }
+      },
+      "volume": 12314.326,
+      "volumeQuote": 33.65646
+    },
+    "bitfinex:qtumeth": {
+      "price": {
+        "last": 0.033191,
+        "high": 0.033799,
+        "low": 0.032688,
+        "change": {
+          "percentage": -0.007861594,
+          "absolute": -0.00026300177
+        }
+      },
+      "volume": 1391.1517,
+      "volumeQuote": 46.254776
+    },
+    "bitfinex:qtumusd": {
+      "price": {
+        "last": 30.977,
+        "high": 32.28,
+        "low": 30.305,
+        "change": {
+          "percentage": -0.01315706,
+          "absolute": -0.4130001
+        }
+      },
+      "volume": 21845.074,
+      "volumeQuote": 681838.75
+    },
+    "bitfinex:rcnbtc": {
+      "price": {
+        "last": 0.00001497,
+        "high": 0.0000167,
+        "low": 0.00001443,
+        "change": {
+          "percentage": -0.098192826,
+          "absolute": -0.000001630001
+        }
+      },
+      "volume": 119834.78,
+      "volumeQuote": 1.8484516
+    },
+    "bitfinex:rcneth": {
+      "price": {
+        "last": 0.0001829,
+        "high": 0.00019406,
+        "low": 0.00017168,
+        "change": {
+          "percentage": -0.056438297,
+          "absolute": -0.000010939999
+        }
+      },
+      "volume": 22945.225,
+      "volumeQuote": 4.2553883
+    },
+    "bitfinex:rcnusd": {
+      "price": {
+        "last": 0.17177,
+        "high": 0.18538,
+        "low": 0.16675,
+        "change": {
+          "percentage": -0.05879451,
+          "absolute": -0.010729998
+        }
+      },
+      "volume": 488223.66,
+      "volumeQuote": 85465.03
+    },
+    "bitfinex:repbtc": {
+      "price": {
+        "last": 0.004464,
+        "high": 0.004862,
+        "low": 0.004448,
+        "change": {
+          "percentage": -0.06714317,
+          "absolute": -0.00032130023
+        }
+      },
+      "volume": 6848.7544,
+      "volumeQuote": 31.540922
+    },
+    "bitfinex:repeth": {
+      "price": {
+        "last": 0.055135,
+        "high": 0.058058,
+        "low": 0.05467,
+        "change": {
+          "percentage": -0.0281156,
+          "absolute": -0.001594998
+        }
+      },
+      "volume": 6635.2573,
+      "volumeQuote": 372.84058
+    },
+    "bitfinex:repusd": {
+      "price": {
+        "last": 51.546,
+        "high": 54.559,
+        "low": 50.657,
+        "change": {
+          "percentage": -0.041058116,
+          "absolute": -2.206997
+        }
+      },
+      "volume": 2887.685,
+      "volumeQuote": 151528.92
+    },
+    "bitfinex:sanbtc": {
+      "price": {
+        "last": 0.0002504,
+        "high": 0.00028008,
+        "low": 0.00023501,
+        "change": {
+          "percentage": -0.08045979,
+          "absolute": -0.000021910004
+        }
+      },
+      "volume": 441961.22,
+      "volumeQuote": 114.799995
+    },
+    "bitfinex:saneth": {
+      "price": {
+        "last": 0.003074,
+        "high": 0.0033049,
+        "low": 0.0027348,
+        "change": {
+          "percentage": -0.046407808,
+          "absolute": -0.00014960021
+        }
+      },
+      "volume": 215688.5,
+      "volumeQuote": 673.4986
+    },
+    "bitfinex:sanusd": {
+      "price": {
+        "last": 2.881,
+        "high": 3.1138,
+        "low": 2.6404,
+        "change": {
+          "percentage": -0.052302606,
+          "absolute": -0.15899992
+        }
+      },
+      "volume": 2227610.5,
+      "volumeQuote": 6525752
+    },
+    "bitfinex:sntbtc": {
+      "price": {
+        "last": 0.00001754,
+        "high": 0.00001955,
+        "low": 0.00001753,
+        "change": {
+          "percentage": -0.09166237,
+          "absolute": -0.0000017700004
+        }
+      },
+      "volume": 421251.94,
+      "volumeQuote": 7.7476735
+    },
+    "bitfinex:snteth": {
+      "price": {
+        "last": 0.00021783,
+        "high": 0.00022761,
+        "low": 0.00021589,
+        "change": {
+          "percentage": -0.041114587,
+          "absolute": -0.000009340001
+        }
+      },
+      "volume": 251579.64,
+      "volumeQuote": 55.55736
+    },
+    "bitfinex:sntusd": {
+      "price": {
+        "last": 0.20326,
+        "high": 0.21472,
+        "low": 0.2006,
+        "change": {
+          "percentage": -0.050231278,
+          "absolute": -0.010749996
+        }
+      },
+      "volume": 2894053.8,
+      "volumeQuote": 601792.1
+    },
+    "bitfinex:tnbbtc": {
+      "price": {
+        "last": 0.0000064,
+        "high": 0.0000072,
+        "low": 0.0000064,
+        "change": {
+          "percentage": -0.09090909,
+          "absolute": -6.4000005e-7
+        }
+      },
+      "volume": 1124904.5,
+      "volumeQuote": 7.6599154
+    },
+    "bitfinex:tnbeth": {
+      "price": {
+        "last": 0.00008,
+        "high": 0.0000847,
+        "low": 0.00007584,
+        "change": {
+          "percentage": -0.014778348,
+          "absolute": -0.0000012000019
+        }
+      },
+      "volume": 400092.3,
+      "volumeQuote": 32.60996
+    },
+    "bitfinex:tnbusd": {
+      "price": {
+        "last": 0.0741,
+        "high": 0.079499,
+        "low": 0.072031,
+        "change": {
+          "percentage": -0.049999986,
+          "absolute": -0.003899999
+        }
+      },
+      "volume": 4135658.8,
+      "volumeQuote": 319085.56
+    },
+    "bitfinex:trxbtc": {
+      "price": {
+        "last": 0.00000424,
+        "high": 0.0000048,
+        "low": 0.00000424,
+        "change": {
+          "percentage": -0.084233254,
+          "absolute": -3.8999997e-7
+        }
+      },
+      "volume": 5224798.5,
+      "volumeQuote": 23.28637
+    },
+    "bitfinex:trxeth": {
+      "price": {
+        "last": 0.0000526,
+        "high": 0.00005555,
+        "low": 0.0000526,
+        "change": {
+          "percentage": -0.034862384,
+          "absolute": -0.0000018999999
+        }
+      },
+      "volume": 1545702.1,
+      "volumeQuote": 83.08155
+    },
+    "bitfinex:trxusd": {
+      "price": {
+        "last": 0.04919,
+        "high": 0.05233,
+        "low": 0.049,
+        "change": {
+          "percentage": -0.046705466,
+          "absolute": -0.002410002
+        }
+      },
+      "volume": 20763764,
+      "volumeQuote": 1053212.6
+    },
+    "bitfinex:xmrbtc": {
+      "price": {
+        "last": 0.027038,
+        "high": 0.028493,
+        "low": 0.027007,
+        "change": {
+          "percentage": -0.04368121,
+          "absolute": -0.0012349989
+        }
+      },
+      "volume": 9596.491,
+      "volumeQuote": 265.6298
+    },
+    "bitfinex:xmrusd": {
+      "price": {
+        "last": 313.01,
+        "high": 318.89,
+        "low": 305.89,
+        "change": {
+          "percentage": -0.004927479,
+          "absolute": -1.5499878
+        }
+      },
+      "volume": 16231.815,
+      "volumeQuote": 5080815.5
+    },
+    "bitfinex:xrpbtc": {
+      "price": {
+        "last": 0.00009371,
+        "high": 0.00010115,
+        "low": 0.00009356,
+        "change": {
+          "percentage": -0.06737661,
+          "absolute": -0.000006770002
+        }
+      },
+      "volume": 5552724,
+      "volumeQuote": 539.0161
+    },
+    "bitfinex:xrpusd": {
+      "price": {
+        "last": 1.086,
+        "high": 1.135,
+        "low": 1.0842,
+        "change": {
+          "percentage": -0.02311783,
+          "absolute": -0.025700092
+        }
+      },
+      "volume": 37662344,
+      "volumeQuote": 41565036
+    },
+    "bitfinex:zecbtc": {
+      "price": {
+        "last": 0.039531,
+        "high": 0.043569,
+        "low": 0.039411,
+        "change": {
+          "percentage": -0.06878523,
+          "absolute": -0.0029200017
+        }
+      },
+      "volume": 6212.949,
+      "volumeQuote": 255.72398
+    },
+    "bitfinex:zecusd": {
+      "price": {
+        "last": 458.07,
+        "high": 483.95,
+        "low": 452.63,
+        "change": {
+          "percentage": -0.02883373,
+          "absolute": -13.600006
+        }
+      },
+      "volume": 13466.163,
+      "volumeQuote": 6301071.5
+    },
+    "bitfinex:zrxbtc": {
+      "price": {
+        "last": 0.00009657,
+        "high": 0.00010755,
+        "low": 0.00009657,
+        "change": {
+          "percentage": -0.08956349,
+          "absolute": -0.0000095
+        }
+      },
+      "volume": 221959.17,
+      "volumeQuote": 22.82459
+    },
+    "bitfinex:zrxeth": {
+      "price": {
+        "last": 0.0012096,
+        "high": 0.0012871,
+        "low": 0.0012061,
+        "change": {
+          "percentage": -0.032397375,
+          "absolute": -0.00004049996
+        }
+      },
+      "volume": 93163.77,
+      "volumeQuote": 116.27779
+    },
+    "bitfinex:zrxusd": {
+      "price": {
+        "last": 1.1241,
+        "high": 1.21,
+        "low": 1.116,
+        "change": {
+          "percentage": -0.047534328,
+          "absolute": -0.05610001
+        }
+      },
+      "volume": 660137.4,
+      "volumeQuote": 768909.4
+    },
+    "bitflyer:bchbtc": {
+      "price": {
+        "last": 0.13,
+        "high": 0.14499,
+        "low": 0.13,
+        "change": {
+          "percentage": -0.057971027,
+          "absolute": -0.008000001
+        }
+      },
+      "volume": 917.23016,
+      "volumeQuote": 123.01714
+    },
+    "bitflyer:btceur": {
+      "price": {
+        "last": 9450,
+        "high": 9472.75,
+        "low": 8893,
+        "change": {
+          "percentage": 0.060606062,
+          "absolute": 540
+        }
+      },
+      "volume": 4.350695,
+      "volumeQuote": 39824.297
+    },
+    "bitflyer:btcfxjpy": {
+      "price": {
+        "last": 1432795,
+        "high": 1437501,
+        "low": 1310197,
+        "change": {
+          "percentage": 0.08302625,
+          "absolute": 109840
+        }
+      },
+      "volume": 155456.58,
+      "volumeQuote": 216683800000
+    },
+    "bitflyer:btcjpy": {
+      "price": {
+        "last": 1246991,
+        "high": 1254999,
+        "low": 1175010,
+        "change": {
+          "percentage": 0.0479004,
+          "absolute": 57001
+        }
+      },
+      "volume": 20202.871,
+      "volumeQuote": 24763390000
+    },
+    "bitflyer:btcjpy-biweekly-futures": {
+      "price": {
+        "last": 1249200,
+        "high": 1258200,
+        "low": 1173510,
+        "change": {
+          "percentage": 0.050189156,
+          "absolute": 59700
+        }
+      },
+      "volume": 339.52725,
+      "volumeQuote": 411594530
+    },
+    "bitflyer:btcjpy-weekly-futures": {
+      "price": {
+        "last": 1247370,
+        "high": 1250120,
+        "low": 1175300,
+        "change": {
+          "percentage": 0.05085931,
+          "absolute": 60370
+        }
+      },
+      "volume": 202.61496,
+      "volumeQuote": 247624930
+    },
+    "bitflyer:btcusd": {
+      "price": {
+        "last": 11591.2,
+        "high": 11634.3,
+        "low": 10877,
+        "change": {
+          "percentage": 0.044390555,
+          "absolute": 492.66992
+        }
+      },
+      "volume": 230.65413,
+      "volumeQuote": 2609857.2
+    },
+    "bitflyer:ethbtc": {
+      "price": {
+        "last": 0.081,
+        "high": 0.08687,
+        "low": 0.081,
+        "change": {
+          "percentage": -0.059124153,
+          "absolute": -0.0050899982
+        }
+      },
+      "volume": 3286.4358,
+      "volumeQuote": 273.02594
+    },
+    "bithumb:bchkrw": {
+      "price": {
+        "last": 1744000,
+        "high": 1802000,
+        "low": 1695000,
+        "change": {
+          "percentage": 0.018096905,
+          "absolute": 31000
+        }
+      },
+      "volume": 23979.803,
+      "volumeQuote": 41934713000
+    },
+    "bithumb:btckrw": {
+      "price": {
+        "last": 13490000,
+        "high": 13490000,
+        "low": 12300000,
+        "change": {
+          "percentage": 0.08423083,
+          "absolute": 1048000
+        }
+      },
+      "volume": 9567.746,
+      "volumeQuote": 123548590000
+    },
+    "bithumb:btgkrw": {
+      "price": {
+        "last": 150500,
+        "high": 155700,
+        "low": 147700,
+        "change": {
+          "percentage": 0.013468013,
+          "absolute": 2000
+        }
+      },
+      "volume": 107038.11,
+      "volumeQuote": 16194937000
+    },
+    "bithumb:dashkrw": {
+      "price": {
+        "last": 849000,
+        "high": 850000,
+        "low": 806000,
+        "change": {
+          "percentage": 0.044280443,
+          "absolute": 36000
+        }
+      },
+      "volume": 3632.489,
+      "volumeQuote": 3008317700
+    },
+    "bithumb:eoskrw": {
+      "price": {
+        "last": 10970,
+        "high": 11180,
+        "low": 10630,
+        "change": {
+          "percentage": 0.026192704,
+          "absolute": 280
+        }
+      },
+      "volume": 5226122,
+      "volumeQuote": 57259090000
+    },
+    "bithumb:etckrw": {
+      "price": {
+        "last": 46480,
+        "high": 49300,
+        "low": 42970,
+        "change": {
+          "percentage": 0.07418535,
+          "absolute": 3210
+        }
+      },
+      "volume": 2260809,
+      "volumeQuote": 105246750000
+    },
+    "bithumb:ethkrw": {
+      "price": {
+        "last": 1087000,
+        "high": 1096000,
+        "low": 1060000,
+        "change": {
+          "percentage": 0.02161654,
+          "absolute": 23000
+        }
+      },
+      "volume": 29272.371,
+      "volumeQuote": 31542856000
+    },
+    "bithumb:ltckrw": {
+      "price": {
+        "last": 285000,
+        "high": 291100,
+        "low": 250300,
+        "change": {
+          "percentage": 0.13455413,
+          "absolute": 33800
+        }
+      },
+      "volume": 448620.53,
+      "volumeQuote": 124338250000
+    },
+    "bithumb:xmrkrw": {
+      "price": {
+        "last": 365000,
+        "high": 366300,
+        "low": 346800,
+        "change": {
+          "percentage": 0.036637317,
+          "absolute": 12900
+        }
+      },
+      "volume": 11114.506,
+      "volumeQuote": 3986739000
+    },
+    "bithumb:xrpkrw": {
+      "price": {
+        "last": 1264,
+        "high": 1286,
+        "low": 1248,
+        "change": {
+          "percentage": 0.007974481,
+          "absolute": 10
+        }
+      },
+      "volume": 61052430,
+      "volumeQuote": 77287380000
+    },
+    "bithumb:zeckrw": {
+      "price": {
+        "last": 535000,
+        "high": 543500,
+        "low": 522500,
+        "change": {
+          "percentage": 0.008482563,
+          "absolute": 4500
+        }
+      },
+      "volume": 9338.88,
+      "volumeQuote": 4999746600
+    },
+    "bitmex:adabtc-monthly-futures": {
+      "price": {
+        "last": 0.00005439,
+        "high": 0.00005833,
+        "low": 0.0000541,
+        "change": {
+          "percentage": -0.054087,
+          "absolute": -0.0000031100026
+        }
+      },
+      "volume": 6738031,
+      "volumeQuote": 371.36606
+    },
+    "bitmex:adabtc-quarterly-futures": {
+      "price": {
+        "last": 0.00003408,
+        "high": 0.00003653,
+        "low": 0.00003387,
+        "change": {
+          "percentage": -0.067068174,
+          "absolute": -0.0000024500005
+        }
+      },
+      "volume": 4558332,
+      "volumeQuote": 160.46585
+    },
+    "bitmex:bchbtc-monthly-futures": {
+      "price": {
+        "last": 0.14283,
+        "high": 0.1486,
+        "low": 0.1413,
+        "change": {
+          "percentage": -0.029687526,
+          "absolute": -0.004370004
+        }
+      },
+      "volume": 3364,
+      "volumeQuote": 482.4825
+    },
+    "bitmex:bchbtc-quarterly-futures": {
+      "price": {
+        "last": 0.1322,
+        "high": 0.1405,
+        "low": 0.131,
+        "change": {
+          "percentage": -0.055714272,
+          "absolute": -0.007799998
+        }
+      },
+      "volume": 2076,
+      "volumeQuote": 280.9111
+    },
+    "bitmex:btcjpy-quarterly-futures": {
+      "price": {
+        "last": 11648.5,
+        "high": 11883,
+        "low": 10931,
+        "change": {
+          "percentage": 0.04832831,
+          "absolute": 537
+        }
+      },
+      "volume": 91959140,
+      "volumeQuote": 1048770000000
+    },
+    "bitmex:btcusd-biquarterly-futures": {
+      "price": {
+        "last": 11807.5,
+        "high": 11914,
+        "low": 10987.5,
+        "change": {
+          "percentage": 0.04950891,
+          "absolute": 557
+        }
+      },
+      "volume": 32690464,
+      "volumeQuote": 377033460000
+    },
+    "bitmex:btcusd-perpetual-futures": {
+      "price": {
+        "last": 11601.5,
+        "high": 11713,
+        "low": 10883,
+        "change": {
+          "percentage": 0.04654729,
+          "absolute": 516
+        }
+      },
+      "volume": 2544799200,
+      "volumeQuote": 28884310000000
+    },
+    "bitmex:btcusd-quarterly-futures": {
+      "price": {
+        "last": 11648.5,
+        "high": 11883,
+        "low": 10931,
+        "change": {
+          "percentage": 0.04832831,
+          "absolute": 537
+        }
+      },
+      "volume": 91950130,
+      "volumeQuote": 1048668140000
+    },
+    "bitmex:dashbtc-quarterly-futures": {
+      "price": {
+        "last": 0.063618,
+        "high": 0.066767,
+        "low": 0.063294,
+        "change": {
+          "percentage": -0.03900311,
+          "absolute": -0.0025820062
+        }
+      },
+      "volume": 405,
+      "volumeQuote": 26.16835
+    },
+    "bitmex:etcbtc-weekly-futures": {
+      "price": {
+        "last": 0.00349,
+        "high": 0.003795,
+        "low": 0.003436,
+        "change": {
+          "percentage": -0.011051307,
+          "absolute": -0.000039000064
+        }
+      },
+      "volume": 224432,
+      "volumeQuote": 810.9085
+    },
+    "bitmex:ethbtc-quarterly-futures": {
+      "price": {
+        "last": 0.08047,
+        "high": 0.08598,
+        "low": 0.08023,
+        "change": {
+          "percentage": -0.05883039,
+          "absolute": -0.0050299987
+        }
+      },
+      "volume": 15623,
+      "volumeQuote": 1292.2358
+    },
+    "bitmex:ltcbtc-quarterly-futures": {
+      "price": {
+        "last": 0.02134,
+        "high": 0.0224,
+        "low": 0.01928,
+        "change": {
+          "percentage": 0.059057035,
+          "absolute": 0.0011899993
+        }
+      },
+      "volume": 55810,
+      "volumeQuote": 1176.7521
+    },
+    "bitmex:neobtc-monthly-futures": {
+      "price": {
+        "last": 0.011629,
+        "high": 0.012494,
+        "low": 0.011629,
+        "change": {
+          "percentage": -0.04609959,
+          "absolute": -0.0005620001
+        }
+      },
+      "volume": 10477,
+      "volumeQuote": 125.89328
+    },
+    "bitmex:xlmbtc-monthly-futures": {
+      "price": {
+        "last": 0.00005411,
+        "high": 0.00005718,
+        "low": 0.00005228,
+        "change": {
+          "percentage": -0.048866197,
+          "absolute": -0.0000027799979
+        }
+      },
+      "volume": 6807430,
+      "volumeQuote": 370.67343
+    },
+    "bitmex:xlmbtc-quarterly-futures": {
+      "price": {
+        "last": 0.00003788,
+        "high": 0.00004198,
+        "low": 0.0000376,
+        "change": {
+          "percentage": -0.09507883,
+          "absolute": -0.0000039799997
+        }
+      },
+      "volume": 3166293,
+      "volumeQuote": 124.82659
+    },
+    "bitmex:xmrbtc-quarterly-futures": {
+      "price": {
+        "last": 0.028098,
+        "high": 0.029608,
+        "low": 0.027826,
+        "change": {
+          "percentage": -0.050967664,
+          "absolute": -0.0015089996
+        }
+      },
+      "volume": 3003,
+      "volumeQuote": 85.95732
+    },
+    "bitmex:xrpbtc-quarterly-futures": {
+      "price": {
+        "last": 0.000096,
+        "high": 0.00010399,
+        "low": 0.000096,
+        "change": {
+          "percentage": -0.07075786,
+          "absolute": -0.0000073099945
+        }
+      },
+      "volume": 4821901,
+      "volumeQuote": 482.05222
+    },
+    "bitmex:zecbtc-quarterly-futures": {
+      "price": {
+        "last": 0.041821,
+        "high": 0.046095,
+        "low": 0.041821,
+        "change": {
+          "percentage": -0.06882348,
+          "absolute": -0.003091
+        }
+      },
+      "volume": 886,
+      "volumeQuote": 38.59392
+    },
+    "bitsquare:btcaud": {
+      "price": {
+        "last": 14673.225,
+        "high": 14673.225,
+        "low": 14673.225,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0.012,
+      "volumeQuote": 176.07869
+    },
+    "bitsquare:btceur": {
+      "price": {
+        "last": 9846.89,
+        "high": 9846.89,
+        "low": 8859.891,
+        "change": {
+          "percentage": 0.106166825,
+          "absolute": 945.07715
+        }
+      },
+      "volume": 0.74889994,
+      "volumeQuote": 6828.478
+    },
+    "bitsquare:btcusd": {
+      "price": {
+        "last": 11383.77,
+        "high": 11383.77,
+        "low": 10933.207,
+        "change": {
+          "percentage": 0.04121046,
+          "absolute": 450.5625
+        }
+      },
+      "volume": 0.0716,
+      "volumeQuote": 810.9778
+    },
+    "bitsquare:etcbtc": {
+      "price": {
+        "last": 0.00258436,
+        "high": 0.00686001,
+        "low": 0.00157315,
+        "change": {
+          "percentage": -0.41278154,
+          "absolute": -0.0018166597
+        }
+      },
+      "volume": 640.8005,
+      "volumeQuote": 1.3612
+    },
+    "bitsquare:ethbtc": {
+      "price": {
+        "last": 0.09,
+        "high": 0.095,
+        "low": 0.09,
+        "change": {
+          "percentage": -0.030258551,
+          "absolute": -0.002808243
+        }
+      },
+      "volume": 12.184402,
+      "volumeQuote": 1.13
+    },
+    "bitsquare:ltcbtc": {
+      "price": {
+        "last": 0.021483,
+        "high": 0.021483,
+        "low": 0.021483,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 9.309687,
+      "volumeQuote": 0.2
+    },
+    "bitstamp:bchbtc": {
+      "price": {
+        "last": 0.12900265,
+        "high": 0.13804998,
+        "low": 0.12900001,
+        "change": {
+          "percentage": -0.060090058,
+          "absolute": -0.008247361
+        }
+      },
+      "volume": 688.2433,
+      "volumeQuote": 92.21907
+    },
+    "bitstamp:bcheur": {
+      "price": {
+        "last": 1216.56,
+        "high": 1259.49,
+        "low": 1205,
+        "change": {
+          "percentage": -0.01384517,
+          "absolute": -17.079956
+        }
+      },
+      "volume": 541.89465,
+      "volumeQuote": 665182.94
+    },
+    "bitstamp:bchusd": {
+      "price": {
+        "last": 1504.99,
+        "high": 1554.4,
+        "low": 1481.49,
+        "change": {
+          "percentage": -0.015058907,
+          "absolute": -23.01001
+        }
+      },
+      "volume": 2316.209,
+      "volumeQuote": 3508327
+    },
+    "bitstamp:btceur": {
+      "price": {
+        "last": 9390.2,
+        "high": 9478,
+        "low": 8806.3,
+        "change": {
+          "percentage": 0.050018568,
+          "absolute": 447.31055
+        }
+      },
+      "volume": 3253.694,
+      "volumeQuote": 29959932
+    },
+    "bitstamp:btcusd": {
+      "price": {
+        "last": 11599.99,
+        "high": 11676.87,
+        "low": 10901.65,
+        "change": {
+          "percentage": 0.04830999,
+          "absolute": 534.5703
+        }
+      },
+      "volume": 13104.077,
+      "volumeQuote": 148425230
+    },
+    "bitstamp:ethbtc": {
+      "price": {
+        "last": 0.08050997,
+        "high": 0.08611,
+        "low": 0.080336,
+        "change": {
+          "percentage": -0.0546035,
+          "absolute": -0.004650034
+        }
+      },
+      "volume": 6028.6465,
+      "volumeQuote": 499.95624
+    },
+    "bitstamp:etheur": {
+      "price": {
+        "last": 759.06,
+        "high": 777.68,
+        "low": 750.82,
+        "change": {
+          "percentage": -0.0064529544,
+          "absolute": -4.9299927
+        }
+      },
+      "volume": 10941.212,
+      "volumeQuote": 8334370.5
+    },
+    "bitstamp:ethusd": {
+      "price": {
+        "last": 932.17,
+        "high": 958.74,
+        "low": 927.42,
+        "change": {
+          "percentage": -0.015462463,
+          "absolute": -14.640015
+        }
+      },
+      "volume": 15998.873,
+      "volumeQuote": 15067035
+    },
+    "bitstamp:eurusd": {
+      "price": {
+        "last": 1.23108,
+        "high": 1.2397,
+        "low": 1.23021,
+        "change": {
+          "percentage": -0.0064804074,
+          "absolute": -0.008029938
+        }
+      },
+      "volume": 2326995.8,
+      "volumeQuote": 2874751
+    },
+    "bitstamp:ltcbtc": {
+      "price": {
+        "last": 0.02110002,
+        "high": 0.02200069,
+        "low": 0.0193,
+        "change": {
+          "percentage": 0.044217326,
+          "absolute": 0.0008934792
+        }
+      },
+      "volume": 18111.605,
+      "volumeQuote": 379.98932
+    },
+    "bitstamp:ltceur": {
+      "price": {
+        "last": 198.25,
+        "high": 204,
+        "low": 178,
+        "change": {
+          "percentage": 0.09870315,
+          "absolute": 17.809998
+        }
+      },
+      "volume": 36276.062,
+      "volumeQuote": 6986914.5
+    },
+    "bitstamp:ltcusd": {
+      "price": {
+        "last": 244.76,
+        "high": 252.55,
+        "low": 220.86,
+        "change": {
+          "percentage": 0.09311773,
+          "absolute": 20.84999
+        }
+      },
+      "volume": 74201.336,
+      "volumeQuote": 17698804
+    },
+    "bitstamp:xrpbtc": {
+      "price": {
+        "last": 0.00009378,
+        "high": 0.00010125,
+        "low": 0.00009356,
+        "change": {
+          "percentage": -0.06593627,
+          "absolute": -0.000006620001
+        }
+      },
+      "volume": 2476571.5,
+      "volumeQuote": 242.30405
+    },
+    "bitstamp:xrpeur": {
+      "price": {
+        "last": 0.88406,
+        "high": 0.91649,
+        "low": 0.88,
+        "change": {
+          "percentage": -0.016902741,
+          "absolute": -0.015199959
+        }
+      },
+      "volume": 4531902.5,
+      "volumeQuote": 4054122
+    },
+    "bitstamp:xrpusd": {
+      "price": {
+        "last": 1.08967,
+        "high": 1.13175,
+        "low": 1.08421,
+        "change": {
+          "percentage": -0.021462534,
+          "absolute": -0.023900032
+        }
+      },
+      "volume": 10359337,
+      "volumeQuote": 11454407
+    },
+    "bittrex:adabtc": {
+      "price": {
+        "last": 0.00003166,
+        "high": 0.00003438,
+        "low": 0.0000315,
+        "change": {
+          "percentage": -0.07345619,
+          "absolute": -0.000002509998
+        }
+      },
+      "volume": 56539656,
+      "volumeQuote": 1854.7758
+    },
+    "bittrex:adaeth": {
+      "price": {
+        "last": 0.00039479,
+        "high": 0.000405,
+        "low": 0.00038801,
+        "change": {
+          "percentage": -0.004262513,
+          "absolute": -0.0000016900012
+        }
+      },
+      "volume": 2895492.5,
+      "volumeQuote": 1149.2261
+    },
+    "bittrex:adausdt": {
+      "price": {
+        "last": 0.3690482,
+        "high": 0.38718197,
+        "low": 0.3670003,
+        "change": {
+          "percentage": -0.026258048,
+          "absolute": -0.0099518
+        }
+      },
+      "volume": 6438030.5,
+      "volumeQuote": 2420508.2
+    },
+    "bittrex:batbtc": {
+      "price": {
+        "last": 0.00003544,
+        "high": 0.00003892,
+        "low": 0.00003497,
+        "change": {
+          "percentage": -0.07708337,
+          "absolute": -0.0000029600014
+        }
+      },
+      "volume": 3057672.5,
+      "volumeQuote": 112.900314
+    },
+    "bittrex:bateth": {
+      "price": {
+        "last": 0.00044543,
+        "high": 0.00046847,
+        "low": 0.00042704,
+        "change": {
+          "percentage": -0.0020835488,
+          "absolute": -9.300129e-7
+        }
+      },
+      "volume": 195691.44,
+      "volumeQuote": 88.33436
+    },
+    "bittrex:bccbtc": {
+      "price": {
+        "last": 0.12930213,
+        "high": 0.13835555,
+        "low": 0.12805493,
+        "change": {
+          "percentage": -0.060595784,
+          "absolute": -0.008340567
+        }
+      },
+      "volume": 6863.6978,
+      "volumeQuote": 916.5776
+    },
+    "bittrex:bccusdt": {
+      "price": {
+        "last": 1501,
+        "high": 1555,
+        "low": 1479.3146,
+        "change": {
+          "percentage": -0.0125,
+          "absolute": -19
+        }
+      },
+      "volume": 1370.0603,
+      "volumeQuote": 2082875
+    },
+    "bittrex:blkbtc": {
+      "price": {
+        "last": 0.00003351,
+        "high": 0.00003888,
+        "low": 0.0000335,
+        "change": {
+          "percentage": -0.07685947,
+          "absolute": -0.0000027899987
+        }
+      },
+      "volume": 435575.5,
+      "volumeQuote": 15.52132
+    },
+    "bittrex:btcusdt": {
+      "price": {
+        "last": 11568,
+        "high": 11640,
+        "low": 10900,
+        "change": {
+          "percentage": 0.046877827,
+          "absolute": 518
+        }
+      },
+      "volume": 3887.8909,
+      "volumeQuote": 43967770
+    },
+    "bittrex:btgbtc": {
+      "price": {
+        "last": 0.01175556,
+        "high": 0.0127,
+        "low": 0.01172975,
+        "change": {
+          "percentage": -0.046948295,
+          "absolute": -0.0005790908
+        }
+      },
+      "volume": 15890.857,
+      "volumeQuote": 191.45583
+    },
+    "bittrex:btgeth": {
+      "price": {
+        "last": 0.14664,
+        "high": 0.15055276,
+        "low": 0.14214858,
+        "change": {
+          "percentage": 0.014536003,
+          "absolute": 0.002101019
+        }
+      },
+      "volume": 467.8876,
+      "volumeQuote": 68.01766
+    },
+    "bittrex:btgusdt": {
+      "price": {
+        "last": 136.98,
+        "high": 141,
+        "low": 133.57027,
+        "change": {
+          "percentage": 0.00553603,
+          "absolute": 0.7541504
+        }
+      },
+      "volume": 4860.5903,
+      "volumeQuote": 666216.3
+    },
+    "bittrex:dashbtc": {
+      "price": {
+        "last": 0.06278119,
+        "high": 0.066,
+        "low": 0.0625,
+        "change": {
+          "percentage": -0.034135245,
+          "absolute": -0.0022187904
+        }
+      },
+      "volume": 2974.1372,
+      "volumeQuote": 189.1406
+    },
+    "bittrex:dasheth": {
+      "price": {
+        "last": 0.7816514,
+        "high": 0.7816514,
+        "low": 0.75684667,
+        "change": {
+          "percentage": 0.024488635,
+          "absolute": 0.01868403
+        }
+      },
+      "volume": 298.82928,
+      "volumeQuote": 229.79517
+    },
+    "bittrex:dashusdt": {
+      "price": {
+        "last": 727.08,
+        "high": 736,
+        "low": 714,
+        "change": {
+          "percentage": 0.010453687,
+          "absolute": 7.5220337
+        }
+      },
+      "volume": 1146.0208,
+      "volumeQuote": 833955
+    },
+    "bittrex:dcrbtc": {
+      "price": {
+        "last": 0.0074417,
+        "high": 0.00831585,
+        "low": 0.00731318,
+        "change": {
+          "percentage": -0.08127163,
+          "absolute": -0.00065830024
+        }
+      },
+      "volume": 11134.494,
+      "volumeQuote": 85.6442
+    },
+    "bittrex:dogebtc": {
+      "price": {
+        "last": 6.9e-7,
+        "high": 7.4e-7,
+        "low": 5.4e-7,
+        "change": {
+          "percentage": 0.11290323,
+          "absolute": 7e-8
+        }
+      },
+      "volume": 3306536400,
+      "volumeQuote": 2150.7317
+    },
+    "bittrex:edgbtc": {
+      "price": {
+        "last": 0.00007396,
+        "high": 0.0000845,
+        "low": 0.00006901,
+        "change": {
+          "percentage": -0.105142206,
+          "absolute": -0.000008690004
+        }
+      },
+      "volume": 749119.9,
+      "volumeQuote": 56.689842
+    },
+    "bittrex:etcbtc": {
+      "price": {
+        "last": 0.00342844,
+        "high": 0.00375233,
+        "low": 0.00340819,
+        "change": {
+          "percentage": -0.010551226,
+          "absolute": -0.00003656
+        }
+      },
+      "volume": 797551.75,
+      "volumeQuote": 2848.9058
+    },
+    "bittrex:etceth": {
+      "price": {
+        "last": 0.04263695,
+        "high": 0.04521743,
+        "low": 0.0405562,
+        "change": {
+          "percentage": 0.047590423,
+          "absolute": 0.0019369312
+        }
+      },
+      "volume": 47854.855,
+      "volumeQuote": 2058.3687
+    },
+    "bittrex:etcusdt": {
+      "price": {
+        "last": 39.65,
+        "high": 42.95675,
+        "low": 38,
+        "change": {
+          "percentage": 0.0352481,
+          "absolute": 1.3500023
+        }
+      },
+      "volume": 197499.62,
+      "volumeQuote": 8006904.5
+    },
+    "bittrex:ethbtc": {
+      "price": {
+        "last": 0.08035759,
+        "high": 0.08624,
+        "low": 0.0802,
+        "change": {
+          "percentage": -0.058803793,
+          "absolute": -0.005020559
+        }
+      },
+      "volume": 24140.752,
+      "volumeQuote": 2003.4122
+    },
+    "bittrex:ethusdt": {
+      "price": {
+        "last": 934.998,
+        "high": 958,
+        "low": 929,
+        "change": {
+          "percentage": -0.011630036,
+          "absolute": -11.002014
+        }
+      },
+      "volume": 4221.2275,
+      "volumeQuote": 3976251.5
+    },
+    "bittrex:funbtc": {
+      "price": {
+        "last": 0.00000719,
+        "high": 0.0000074,
+        "low": 0.0000069,
+        "change": {
+          "percentage": 0.02275962,
+          "absolute": 1.6000013e-7
+        }
+      },
+      "volume": 13824368,
+      "volumeQuote": 98.55864
+    },
+    "bittrex:funeth": {
+      "price": {
+        "last": 0.0000713,
+        "high": 0.00007363,
+        "low": 0.00006862,
+        "change": {
+          "percentage": 0.039055627,
+          "absolute": 0.0000026799971
+        }
+      },
+      "volume": 2079447.9,
+      "volumeQuote": 147.40752
+    },
+    "bittrex:gnobtc": {
+      "price": {
+        "last": 0.01342006,
+        "high": 0.01475672,
+        "low": 0.01278011,
+        "change": {
+          "percentage": -0.076382555,
+          "absolute": -0.0011098301
+        }
+      },
+      "volume": 949.7975,
+      "volumeQuote": 13.055964
+    },
+    "bittrex:gnoeth": {
+      "price": {
+        "last": 0.1664,
+        "high": 0.17249352,
+        "low": 0.16000001,
+        "change": {
+          "percentage": -0.029737592,
+          "absolute": -0.005099997
+        }
+      },
+      "volume": 105.95315,
+      "volumeQuote": 17.549505
+    },
+    "bittrex:gntbtc": {
+      "price": {
+        "last": 0.00003507,
+        "high": 0.00004079,
+        "low": 0.00003442,
+        "change": {
+          "percentage": -0.12977672,
+          "absolute": -0.000005230002
+        }
+      },
+      "volume": 2121871.5,
+      "volumeQuote": 79.70568
+    },
+    "bittrex:gnteth": {
+      "price": {
+        "last": 0.00043747,
+        "high": 0.00047866,
+        "low": 0.00042682,
+        "change": {
+          "percentage": -0.06403509,
+          "absolute": -0.00002993
+        }
+      },
+      "volume": 120578.88,
+      "volumeQuote": 55.067272
+    },
+    "bittrex:ltcbtc": {
+      "price": {
+        "last": 0.02117011,
+        "high": 0.0220899,
+        "low": 0.0191753,
+        "change": {
+          "percentage": 0.051137544,
+          "absolute": 0.0010299198
+        }
+      },
+      "volume": 89495.945,
+      "volumeQuote": 1862.5116
+    },
+    "bittrex:ltceth": {
+      "price": {
+        "last": 0.2623424,
+        "high": 0.267,
+        "low": 0.23324163,
+        "change": {
+          "percentage": 0.111179486,
+          "absolute": 0.026248768
+        }
+      },
+      "volume": 8515.044,
+      "volumeQuote": 2151.5962
+    },
+    "bittrex:ltcusdt": {
+      "price": {
+        "last": 245.29456,
+        "high": 254,
+        "low": 220.8,
+        "change": {
+          "percentage": 0.099975586,
+          "absolute": 22.294556
+        }
+      },
+      "volume": 31178.75,
+      "volumeQuote": 7458005
+    },
+    "bittrex:mlnbtc": {
+      "price": {
+        "last": 0.01278126,
+        "high": 0.01349605,
+        "low": 0.0125,
+        "change": {
+          "percentage": -0.05296291,
+          "absolute": -0.0007147901
+        }
+      },
+      "volume": 209.07053,
+      "volumeQuote": 2.7166526
+    },
+    "bittrex:neobtc": {
+      "price": {
+        "last": 0.01163,
+        "high": 0.01233,
+        "low": 0.01162876,
+        "change": {
+          "percentage": -0.044159383,
+          "absolute": -0.0005373005
+        }
+      },
+      "volume": 62629.348,
+      "volumeQuote": 752.297
+    },
+    "bittrex:neoeth": {
+      "price": {
+        "last": 0.1447,
+        "high": 0.14777,
+        "low": 0.141037,
+        "change": {
+          "percentage": 0.014838746,
+          "absolute": 0.0021157712
+        }
+      },
+      "volume": 11392.11,
+      "volumeQuote": 1651.4738
+    },
+    "bittrex:neousdt": {
+      "price": {
+        "last": 134.9534,
+        "high": 140.469,
+        "low": 132.1,
+        "change": {
+          "percentage": -0.00010378482,
+          "absolute": -0.014007568
+        }
+      },
+      "volume": 21913.996,
+      "volumeQuote": 2996162
+    },
+    "bittrex:omgbtc": {
+      "price": {
+        "last": 0.00163302,
+        "high": 0.00168498,
+        "low": 0.00154654,
+        "change": {
+          "percentage": 0.028149419,
+          "absolute": 0.000044710003
+        }
+      },
+      "volume": 313463.9,
+      "volumeQuote": 499.87503
+    },
+    "bittrex:omgeth": {
+      "price": {
+        "last": 0.02031303,
+        "high": 0.02082745,
+        "low": 0.01843787,
+        "change": {
+          "percentage": 0.08278415,
+          "absolute": 0.0015530307
+        }
+      },
+      "volume": 62587.75,
+      "volumeQuote": 1219.746
+    },
+    "bittrex:qtumbtc": {
+      "price": {
+        "last": 0.00265563,
+        "high": 0.00285507,
+        "low": 0.00264001,
+        "change": {
+          "percentage": -0.05842081,
+          "absolute": -0.00016477006
+        }
+      },
+      "volume": 96125.125,
+      "volumeQuote": 262.28656
+    },
+    "bittrex:qtumeth": {
+      "price": {
+        "last": 0.03289066,
+        "high": 0.0338,
+        "low": 0.03270205,
+        "change": {
+          "percentage": -0.010761711,
+          "absolute": -0.0003578104
+        }
+      },
+      "volume": 5063.14,
+      "volumeQuote": 167.63861
+    },
+    "bittrex:repbtc": {
+      "price": {
+        "last": 0.00443875,
+        "high": 0.0048699,
+        "low": 0.00441632,
+        "change": {
+          "percentage": -0.087396115,
+          "absolute": -0.00042507984
+        }
+      },
+      "volume": 8685.172,
+      "volumeQuote": 40.13045
+    },
+    "bittrex:repeth": {
+      "price": {
+        "last": 0.05483154,
+        "high": 0.05742641,
+        "low": 0.05480759,
+        "change": {
+          "percentage": -0.036115397,
+          "absolute": -0.0020544603
+        }
+      },
+      "volume": 2494.6404,
+      "volumeQuote": 139.7396
+    },
+    "bittrex:scbtc": {
+      "price": {
+        "last": 0.00000239,
+        "high": 0.00000266,
+        "low": 0.00000229,
+        "change": {
+          "percentage": -0.08076925,
+          "absolute": -2.1000005e-7
+        }
+      },
+      "volume": 390676540,
+      "volumeQuote": 953.3686
+    },
+    "bittrex:sceth": {
+      "price": {
+        "last": 0.00002998,
+        "high": 0.00003122,
+        "low": 0.00002802,
+        "change": {
+          "percentage": -0.011213722,
+          "absolute": -3.4000004e-7
+        }
+      },
+      "volume": 25239160,
+      "volumeQuote": 747.0456
+    },
+    "bittrex:sntbtc": {
+      "price": {
+        "last": 0.00001768,
+        "high": 0.00001936,
+        "low": 0.0000175,
+        "change": {
+          "percentage": -0.081558384,
+          "absolute": -0.0000015699989
+        }
+      },
+      "volume": 5095379.5,
+      "volumeQuote": 92.65336
+    },
+    "bittrex:snteth": {
+      "price": {
+        "last": 0.00021646,
+        "high": 0.00022705,
+        "low": 0.00021558,
+        "change": {
+          "percentage": -0.042424254,
+          "absolute": -0.000009590003
+        }
+      },
+      "volume": 413621.44,
+      "volumeQuote": 91.54519
+    },
+    "bittrex:stratbtc": {
+      "price": {
+        "last": 0.00082099,
+        "high": 0.0009039,
+        "low": 0.00082099,
+        "change": {
+          "percentage": -0.05187608,
+          "absolute": -0.000044920016
+        }
+      },
+      "volume": 434953.62,
+      "volumeQuote": 374.99802
+    },
+    "bittrex:strateth": {
+      "price": {
+        "last": 0.01015105,
+        "high": 0.0107329,
+        "low": 0.01009792,
+        "change": {
+          "percentage": -0.003657167,
+          "absolute": -0.000037260354
+        }
+      },
+      "volume": 11368.344,
+      "volumeQuote": 117.77849
+    },
+    "bittrex:voxbtc": {
+      "price": {
+        "last": 0.00001352,
+        "high": 0.00001526,
+        "low": 0.00001305,
+        "change": {
+          "percentage": -0.1040424,
+          "absolute": -0.0000015699998
+        }
+      },
+      "volume": 5174961.5,
+      "volumeQuote": 71.62958
+    },
+    "bittrex:vrcbtc": {
+      "price": {
+        "last": 0.00007878,
+        "high": 0.00008992,
+        "low": 0.00007856,
+        "change": {
+          "percentage": -0.052555602,
+          "absolute": -0.0000043699984
+        }
+      },
+      "volume": 320629.47,
+      "volumeQuote": 26.675365
+    },
+    "bittrex:vrmbtc": {
+      "price": {
+        "last": 0.00047945,
+        "high": 0.000507,
+        "low": 0.00047944,
+        "change": {
+          "percentage": -0.042440612,
+          "absolute": -0.000021250016
+        }
+      },
+      "volume": 12099.667,
+      "volumeQuote": 5.970037
+    },
+    "bittrex:vtcbtc": {
+      "price": {
+        "last": 0.00042145,
+        "high": 0.00045216,
+        "low": 0.00038,
+        "change": {
+          "percentage": 0.09487442,
+          "absolute": 0.00003652001
+        }
+      },
+      "volume": 917231.56,
+      "volumeQuote": 382.14664
+    },
+    "bittrex:xembtc": {
+      "price": {
+        "last": 0.00004219,
+        "high": 0.0000472,
+        "low": 0.00004187,
+        "change": {
+          "percentage": -0.1021494,
+          "absolute": -0.0000048
+        }
+      },
+      "volume": 19004058,
+      "volumeQuote": 847.1402
+    },
+    "bittrex:xemeth": {
+      "price": {
+        "last": 0.00052215,
+        "high": 0.00055602,
+        "low": 0.000501,
+        "change": {
+          "percentage": -0.04717147,
+          "absolute": -0.000025849964
+        }
+      },
+      "volume": 636525.8,
+      "volumeQuote": 337.67685
+    },
+    "bittrex:xmrbtc": {
+      "price": {
+        "last": 0.02703401,
+        "high": 0.02839,
+        "low": 0.027015,
+        "change": {
+          "percentage": -0.04127946,
+          "absolute": -0.0011639986
+        }
+      },
+      "volume": 8664.865,
+      "volumeQuote": 240.32198
+    },
+    "bittrex:xmreth": {
+      "price": {
+        "last": 0.336588,
+        "high": 0.33744195,
+        "low": 0.32836726,
+        "change": {
+          "percentage": 0.014888937,
+          "absolute": 0.004937917
+        }
+      },
+      "volume": 414.83688,
+      "volumeQuote": 138.45593
+    },
+    "bittrex:xmrusdt": {
+      "price": {
+        "last": 314.13458,
+        "high": 318.608,
+        "low": 305,
+        "change": {
+          "percentage": -0.012152272,
+          "absolute": -3.8644104
+        }
+      },
+      "volume": 1725.6577,
+      "volumeQuote": 540104.8
+    },
+    "bittrex:xrpbtc": {
+      "price": {
+        "last": 0.00009351,
+        "high": 0.00010109,
+        "low": 0.00009335,
+        "change": {
+          "percentage": -0.06982987,
+          "absolute": -0.0000070199967
+        }
+      },
+      "volume": 10458993,
+      "volumeQuote": 1012.42126
+    },
+    "bittrex:xrpeth": {
+      "price": {
+        "last": 0.00116004,
+        "high": 0.00118383,
+        "low": 0.00116,
+        "change": {
+          "percentage": -0.014166596,
+          "absolute": -0.000016669976
+        }
+      },
+      "volume": 609307.8,
+      "volumeQuote": 713.2552
+    },
+    "bittrex:xrpusdt": {
+      "price": {
+        "last": 1.08502,
+        "high": 1.1314365,
+        "low": 1.0841,
+        "change": {
+          "percentage": -0.023386328,
+          "absolute": -0.02598226
+        }
+      },
+      "volume": 3321009.5,
+      "volumeQuote": 3672819.5
+    },
+    "bittrex:xvgbtc": {
+      "price": {
+        "last": 0.00000656,
+        "high": 0.0000077,
+        "low": 0.00000653,
+        "change": {
+          "percentage": -0.11590296,
+          "absolute": -8.6e-7
+        }
+      },
+      "volume": 207855920,
+      "volumeQuote": 1465.4872
+    },
+    "bittrex:xvgusdt": {
+      "price": {
+        "last": 0.0765,
+        "high": 0.08552,
+        "low": 0.07600001,
+        "change": {
+          "percentage": -0.07272733,
+          "absolute": -0.0060000047
+        }
+      },
+      "volume": 25397058,
+      "volumeQuote": 2037243
+    },
+    "bittrex:zecbtc": {
+      "price": {
+        "last": 0.0395,
+        "high": 0.04375198,
+        "low": 0.0392047,
+        "change": {
+          "percentage": -0.07329484,
+          "absolute": -0.003124129
+        }
+      },
+      "volume": 5831.317,
+      "volumeQuote": 239.32738
+    },
+    "bittrex:zeceth": {
+      "price": {
+        "last": 0.48800147,
+        "high": 0.51377046,
+        "low": 0.4764724,
+        "change": {
+          "percentage": -0.014165646,
+          "absolute": -0.0070121884
+        }
+      },
+      "volume": 458.54013,
+      "volumeQuote": 225.43335
+    },
+    "bittrex:zecusdt": {
+      "price": {
+        "last": 460.89758,
+        "high": 481.92,
+        "low": 449.499,
+        "change": {
+          "percentage": -0.0275068,
+          "absolute": -13.036407
+        }
+      },
+      "volume": 1925.1129,
+      "volumeQuote": 884802.4
+    },
+    "bittrex:zenbtc": {
+      "price": {
+        "last": 0.00376009,
+        "high": 0.0042,
+        "low": 0.00360561,
+        "change": {
+          "percentage": -0.048095357,
+          "absolute": -0.00018998003
+        }
+      },
+      "volume": 19471.086,
+      "volumeQuote": 73.965096
+    },
+    "btce:bchbtc": {
+      "price": {
+        "last": 0.13,
+        "high": 0.1385,
+        "low": 0.1296,
+        "change": {
+          "percentage": -0.058653172,
+          "absolute": -0.008100003
+        }
+      },
+      "volume": 5402.4478,
+      "volumeQuote": 723.3097
+    },
+    "btce:bcheth": {
+      "price": {
+        "last": 1.612,
+        "high": 1.638,
+        "low": 1.599,
+        "change": {
+          "percentage": -0.003092143,
+          "absolute": -0.004999995
+        }
+      },
+      "volume": 2113.522,
+      "volumeQuote": 3407.5894
+    },
+    "btce:bchltc": {
+      "price": {
+        "last": 6.149,
+        "high": 6.919,
+        "low": 6.019,
+        "change": {
+          "percentage": -0.09931155,
+          "absolute": -0.678
+        }
+      },
+      "volume": 1048.8497,
+      "volumeQuote": 6902.909
+    },
+    "btce:bchusd": {
+      "price": {
+        "last": 1505.668,
+        "high": 1550,
+        "low": 1484.254,
+        "change": {
+          "percentage": -0.011477566,
+          "absolute": -17.482056
+        }
+      },
+      "volume": 6317.9946,
+      "volumeQuote": 9574014
+    },
+    "btce:btceur": {
+      "price": {
+        "last": 9433.706,
+        "high": 9469.764,
+        "low": 8894.269,
+        "change": {
+          "percentage": 0.050341073,
+          "absolute": 452.1416
+        }
+      },
+      "volume": 233.52539,
+      "volumeQuote": 2144995.5
+    },
+    "btce:btcrur": {
+      "price": {
+        "last": 651098,
+        "high": 651142.06,
+        "low": 613224.94,
+        "change": {
+          "percentage": 0.052637175,
+          "absolute": 32558.188
+        }
+      },
+      "volume": 289.88214,
+      "volumeQuote": 183689600
+    },
+    "btce:btcusd": {
+      "price": {
+        "last": 11578.123,
+        "high": 11630.3,
+        "low": 10908.1,
+        "change": {
+          "percentage": 0.051598776,
+          "absolute": 568.1035
+        }
+      },
+      "volume": 1122.3798,
+      "volumeQuote": 12697072
+    },
+    "btce:ethbtc": {
+      "price": {
+        "last": 0.08045,
+        "high": 0.08604,
+        "low": 0.08036,
+        "change": {
+          "percentage": -0.056858152,
+          "absolute": -0.00485
+        }
+      },
+      "volume": 6810.3174,
+      "volumeQuote": 565.74274
+    },
+    "btce:etheur": {
+      "price": {
+        "last": 759.36774,
+        "high": 774.6856,
+        "low": 754.0246,
+        "change": {
+          "percentage": -0.009622079,
+          "absolute": -7.3776855
+        }
+      },
+      "volume": 2553.147,
+      "volumeQuote": 1953041
+    },
+    "btce:ethltc": {
+      "price": {
+        "last": 3.81384,
+        "high": 4.26966,
+        "low": 3.776,
+        "change": {
+          "percentage": -0.096653186,
+          "absolute": -0.40806007
+        }
+      },
+      "volume": 1975.2906,
+      "volumeQuote": 7978.1934
+    },
+    "btce:ethrur": {
+      "price": {
+        "last": 52223,
+        "high": 53285.766,
+        "low": 52142.562,
+        "change": {
+          "percentage": -0.013079398,
+          "absolute": -692.09766
+        }
+      },
+      "volume": 2569.038,
+      "volumeQuote": 135247660
+    },
+    "btce:ethusd": {
+      "price": {
+        "last": 932.35,
+        "high": 956,
+        "low": 930,
+        "change": {
+          "percentage": -0.007874397,
+          "absolute": -7.3999634
+        }
+      },
+      "volume": 6733.539,
+      "volumeQuote": 6328318.5
+    },
+    "btce:ltcbtc": {
+      "price": {
+        "last": 0.02112,
+        "high": 0.02195,
+        "low": 0.01933,
+        "change": {
+          "percentage": 0.050223805,
+          "absolute": 0.0010100007
+        }
+      },
+      "volume": 23891.24,
+      "volumeQuote": 494.58
+    },
+    "btce:ltcusd": {
+      "price": {
+        "last": 243.93,
+        "high": 249,
+        "low": 220.56,
+        "change": {
+          "percentage": 0.097300895,
+          "absolute": 21.62999
+        }
+      },
+      "volume": 27999.117,
+      "volumeQuote": 6596224
+    },
+    "btce:nmcusd": {
+      "price": {
+        "last": 3.144,
+        "high": 3.199,
+        "low": 3.1,
+        "change": {
+          "percentage": -0.0034865034,
+          "absolute": -0.010999918
+        }
+      },
+      "volume": 13251.019,
+      "volumeQuote": 41853.89
+    },
+    "btce:ppcusd": {
+      "price": {
+        "last": 4.151,
+        "high": 4.27,
+        "low": 4.07,
+        "change": {
+          "percentage": -0.012137106,
+          "absolute": -0.05100012
+        }
+      },
+      "volume": 35561.047,
+      "volumeQuote": 147916.1
+    },
+    "btce:zecbtc": {
+      "price": {
+        "last": 0.0396,
+        "high": 0.0434,
+        "low": 0.0395,
+        "change": {
+          "percentage": -0.07259954,
+          "absolute": -0.0031000003
+        }
+      },
+      "volume": 5222.4434,
+      "volumeQuote": 215.57045
+    },
+    "btce:zecusd": {
+      "price": {
+        "last": 458.7,
+        "high": 481,
+        "low": 455.704,
+        "change": {
+          "percentage": -0.024042528,
+          "absolute": -11.299988
+        }
+      },
+      "volume": 8881.693,
+      "volumeQuote": 4161730.8
+    },
+    "cexio:bchusd": {
+      "price": {
+        "last": 1537,
+        "high": 1590,
+        "low": 1521.1,
+        "change": {
+          "percentage": -0.01616889,
+          "absolute": -25.26001
+        }
+      },
+      "volume": 308.9985,
+      "volumeQuote": 479669.3
+    },
+    "cexio:btceur": {
+      "price": {
+        "last": 9371.1,
+        "high": 9449.9,
+        "low": 8700,
+        "change": {
+          "percentage": 0.05889323,
+          "absolute": 521.1992
+        }
+      },
+      "volume": 257.108,
+      "volumeQuote": 2346438.8
+    },
+    "cexio:btcusd": {
+      "price": {
+        "last": 11801.8,
+        "high": 11922.2,
+        "low": 11116.2,
+        "change": {
+          "percentage": 0.047949705,
+          "absolute": 540
+        }
+      },
+      "volume": 2020.7987,
+      "volumeQuote": 23401974
+    },
+    "cexio:ethbtc": {
+      "price": {
+        "last": 0.080429,
+        "high": 0.08592,
+        "low": 0.080411,
+        "change": {
+          "percentage": -0.05812015,
+          "absolute": -0.0049629956
+        }
+      },
+      "volume": 1105.0591,
+      "volumeQuote": 92.10029
+    },
+    "cexio:ethusd": {
+      "price": {
+        "last": 955,
+        "high": 979.99,
+        "low": 950,
+        "change": {
+          "percentage": -0.007276507,
+          "absolute": -7
+        }
+      },
+      "volume": 2560.7698,
+      "volumeQuote": 2462421.2
+    },
+    "cexio:ltcbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "cexio:ltcusd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "cexio:xrpusd": {
+      "price": {
+        "last": 1.114,
+        "high": 1.1487,
+        "low": 1.1112,
+        "change": {
+          "percentage": -0.022721298,
+          "absolute": -0.025900006
+        }
+      },
+      "volume": 1357134.5,
+      "volumeQuote": 1534288.6
+    },
+    "gdax:bchbtc": {
+      "price": {
+        "last": 0.12949,
+        "high": 0.13779,
+        "low": 0.12902,
+        "change": {
+          "percentage": -0.058254544,
+          "absolute": -0.00801
+        }
+      },
+      "volume": 1007.8294,
+      "volumeQuote": 134.35136
+    },
+    "gdax:bcheur": {
+      "price": {
+        "last": 1222,
+        "high": 1265,
+        "low": 1205.6,
+        "change": {
+          "percentage": -0.00529911,
+          "absolute": -6.51001
+        }
+      },
+      "volume": 424.83154,
+      "volumeQuote": 524095.75
+    },
+    "gdax:bchusd": {
+      "price": {
+        "last": 1497.01,
+        "high": 1555,
+        "low": 1482.68,
+        "change": {
+          "percentage": -0.016257592,
+          "absolute": -24.73999
+        }
+      },
+      "volume": 13734.439,
+      "volumeQuote": 20873984
+    },
+    "gdax:btceur": {
+      "price": {
+        "last": 9421.01,
+        "high": 9459,
+        "low": 8819,
+        "change": {
+          "percentage": 0.052039057,
+          "absolute": 466.00977
+        }
+      },
+      "volume": 4149.657,
+      "volumeQuote": 38222972
+    },
+    "gdax:btcgbp": {
+      "price": {
+        "last": 8373,
+        "high": 8461.28,
+        "low": 7890,
+        "change": {
+          "percentage": 0.04897604,
+          "absolute": 390.93018
+        }
+      },
+      "volume": 407.3277,
+      "volumeQuote": 3345525.8
+    },
+    "gdax:btcusd": {
+      "price": {
+        "last": 11593.86,
+        "high": 11642.79,
+        "low": 10900,
+        "change": {
+          "percentage": 0.045999672,
+          "absolute": 509.86035
+        }
+      },
+      "volume": 20538.65,
+      "volumeQuote": 232753460
+    },
+    "gdax:ethbtc": {
+      "price": {
+        "last": 0.0805,
+        "high": 0.08596,
+        "low": 0.08014,
+        "change": {
+          "percentage": -0.05593999,
+          "absolute": -0.0047700033
+        }
+      },
+      "volume": 9529.055,
+      "volumeQuote": 789.2106
+    },
+    "gdax:etheur": {
+      "price": {
+        "last": 760.51,
+        "high": 775.55,
+        "low": 755.82,
+        "change": {
+          "percentage": -0.0052190847,
+          "absolute": -3.9899902
+        }
+      },
+      "volume": 7377.854,
+      "volumeQuote": 5643419
+    },
+    "gdax:ethusd": {
+      "price": {
+        "last": 931.99,
+        "high": 958,
+        "low": 930.01,
+        "change": {
+          "percentage": -0.01588127,
+          "absolute": -15.040039
+        }
+      },
+      "volume": 76966.05,
+      "volumeQuote": 72528040
+    },
+    "gdax:ltcbtc": {
+      "price": {
+        "last": 0.02113,
+        "high": 0.022,
+        "low": 0.0193,
+        "change": {
+          "percentage": 0.049677107,
+          "absolute": 0.0010000002
+        }
+      },
+      "volume": 61696.527,
+      "volumeQuote": 1286.4888
+    },
+    "gdax:ltceur": {
+      "price": {
+        "last": 198.69,
+        "high": 203.84,
+        "low": 179.13,
+        "change": {
+          "percentage": 0.09900995,
+          "absolute": 17.90001
+        }
+      },
+      "volume": 75038.086,
+      "volumeQuote": 14568584
+    },
+    "gdax:ltcusd": {
+      "price": {
+        "last": 244.99,
+        "high": 251.9,
+        "low": 220.55,
+        "change": {
+          "percentage": 0.09527009,
+          "absolute": 21.310013
+        }
+      },
+      "volume": 804850.8,
+      "volumeQuote": 192119410
+    },
+    "gemini:btcusd": {
+      "price": {
+        "last": 11585.91,
+        "high": 11647,
+        "low": 10900.02,
+        "change": {
+          "percentage": 0.04601941,
+          "absolute": 509.71973
+        }
+      },
+      "volume": 4774.724,
+      "volumeQuote": 54214108
+    },
+    "gemini:ethbtc": {
+      "price": {
+        "last": 0.08043,
+        "high": 0.08581,
+        "low": 0.0804,
+        "change": {
+          "percentage": -0.057865713,
+          "absolute": -0.0049399957
+        }
+      },
+      "volume": 3366.9163,
+      "volumeQuote": 279.3607
+    },
+    "gemini:ethusd": {
+      "price": {
+        "last": 931.37,
+        "high": 959,
+        "low": 929.56,
+        "change": {
+          "percentage": -0.015569159,
+          "absolute": -14.72998
+        }
+      },
+      "volume": 17473.87,
+      "volumeQuote": 16446455
+    },
+    "kraken:bchbtc": {
+      "price": {
+        "last": 0.12956,
+        "high": 0.13805,
+        "low": 0.12921,
+        "change": {
+          "percentage": -0.058909,
+          "absolute": -0.008110002
+        }
+      },
+      "volume": 1719.2701,
+      "volumeQuote": 229.92468
+    },
+    "kraken:bcheur": {
+      "price": {
+        "last": 1221.5,
+        "high": 1257.9,
+        "low": 1201,
+        "change": {
+          "percentage": -0.009326845,
+          "absolute": -11.5
+        }
+      },
+      "volume": 2341.1301,
+      "volumeQuote": 2879763.8
+    },
+    "kraken:bchusd": {
+      "price": {
+        "last": 1504.6,
+        "high": 1556,
+        "low": 1482.1,
+        "change": {
+          "percentage": -0.011756995,
+          "absolute": -17.900024
+        }
+      },
+      "volume": 1914.118,
+      "volumeQuote": 2918124.2
+    },
+    "kraken:btccad": {
+      "price": {
+        "last": 12886.4,
+        "high": 13000,
+        "low": 11000.1,
+        "change": {
+          "percentage": -0.008738431,
+          "absolute": -113.59961
+        }
+      },
+      "volume": 109.776344,
+      "volumeQuote": 1406953.1
+    },
+    "kraken:btceur": {
+      "price": {
+        "last": 9414.4,
+        "high": 9478.3,
+        "low": 8800,
+        "change": {
+          "percentage": 0.050362647,
+          "absolute": 451.4004
+        }
+      },
+      "volume": 11052.617,
+      "volumeQuote": 101577450
+    },
+    "kraken:btcgbp": {
+      "price": {
+        "last": 6700,
+        "high": 7210.7,
+        "low": 6611,
+        "change": {
+          "percentage": -0.030951692,
+          "absolute": -214
+        }
+      },
+      "volume": 1.248232,
+      "volumeQuote": 8654.945
+    },
+    "kraken:btcjpy": {
+      "price": {
+        "last": 1250000,
+        "high": 1250000,
+        "low": 1170484,
+        "change": {
+          "percentage": 0.040723946,
+          "absolute": 48913
+        }
+      },
+      "volume": 28.934246,
+      "volumeQuote": 35430732
+    },
+    "kraken:btcusd": {
+      "price": {
+        "last": 11580,
+        "high": 11690.5,
+        "low": 10913.8,
+        "change": {
+          "percentage": 0.04224798,
+          "absolute": 469.4004
+        }
+      },
+      "volume": 6916.828,
+      "volumeQuote": 78620820
+    },
+    "kraken:dashbtc": {
+      "price": {
+        "last": 0.0631,
+        "high": 0.06599,
+        "low": 0.06281,
+        "change": {
+          "percentage": -0.028931942,
+          "absolute": -0.0018799976
+        }
+      },
+      "volume": 709.5972,
+      "volumeQuote": 45.611786
+    },
+    "kraken:dasheur": {
+      "price": {
+        "last": 595.598,
+        "high": 597.899,
+        "low": 578.341,
+        "change": {
+          "percentage": 0.01783964,
+          "absolute": 10.439026
+        }
+      },
+      "volume": 712.0972,
+      "volumeQuote": 418745.34
+    },
+    "kraken:dashusd": {
+      "price": {
+        "last": 729.27,
+        "high": 737.46,
+        "low": 715.5,
+        "change": {
+          "percentage": 0.0050011347,
+          "absolute": 3.6290283
+        }
+      },
+      "volume": 862.6456,
+      "volumeQuote": 628791.7
+    },
+    "kraken:dogebtc": {
+      "price": {
+        "last": 6.8e-7,
+        "high": 7.2e-7,
+        "low": 5.1e-7,
+        "change": {
+          "percentage": 0.09677427,
+          "absolute": 6.000005e-8
+        }
+      },
+      "volume": 161977260,
+      "volumeQuote": 100.267044
+    },
+    "kraken:eosbtc": {
+      "price": {
+        "last": 0.0008097,
+        "high": 0.0009754,
+        "low": 0.0008071,
+        "change": {
+          "percentage": -0.052982453,
+          "absolute": -0.000045299996
+        }
+      },
+      "volume": 1275593.9,
+      "volumeQuote": 1075.0228
+    },
+    "kraken:eoseth": {
+      "price": {
+        "last": 0.010036,
+        "high": 0.01046,
+        "low": 0.009976,
+        "change": {
+          "percentage": -0.0016910734,
+          "absolute": -0.000017000362
+        }
+      },
+      "volume": 300485.47,
+      "volumeQuote": 3050.8083
+    },
+    "kraken:eoseur": {
+      "price": {
+        "last": 7.6651,
+        "high": 8,
+        "low": 7.5201,
+        "change": {
+          "percentage": 0.00066582905,
+          "absolute": 0.0051002502
+        }
+      },
+      "volume": 78694.57,
+      "volumeQuote": 607571.7
+    },
+    "kraken:eosusd": {
+      "price": {
+        "last": 9.4449,
+        "high": 9.8814,
+        "low": 9.3001,
+        "change": {
+          "percentage": -0.0047523933,
+          "absolute": -0.045100212
+        }
+      },
+      "volume": 79659.99,
+      "volumeQuote": 762627.06
+    },
+    "kraken:etcbtc": {
+      "price": {
+        "last": 0.003423,
+        "high": 0.003747,
+        "low": 0.003419,
+        "change": {
+          "percentage": -0.013828839,
+          "absolute": -0.0000479999
+        }
+      },
+      "volume": 213919.78,
+      "volumeQuote": 765.02234
+    },
+    "kraken:etceth": {
+      "price": {
+        "last": 0.042697,
+        "high": 0.045129,
+        "low": 0.040473,
+        "change": {
+          "percentage": 0.053674534,
+          "absolute": 0.0021749996
+        }
+      },
+      "volume": 31720.07,
+      "volumeQuote": 1369.339
+    },
+    "kraken:etceur": {
+      "price": {
+        "last": 32.35,
+        "high": 34.5,
+        "low": 30.617,
+        "change": {
+          "percentage": 0.041532487,
+          "absolute": 1.289999
+        }
+      },
+      "volume": 178680.66,
+      "volumeQuote": 5854558.5
+    },
+    "kraken:etcusd": {
+      "price": {
+        "last": 39.941,
+        "high": 42.839,
+        "low": 38.013,
+        "change": {
+          "percentage": 0.033482615,
+          "absolute": 1.2940025
+        }
+      },
+      "volume": 174365.53,
+      "volumeQuote": 7094386
+    },
+    "kraken:ethbtc": {
+      "price": {
+        "last": 0.08059,
+        "high": 0.08625,
+        "low": 0.08042,
+        "change": {
+          "percentage": -0.0544409,
+          "absolute": -0.004639998
+        }
+      },
+      "volume": 16677.7,
+      "volumeQuote": 1386.731
+    },
+    "kraken:ethcad": {
+      "price": {
+        "last": 1047,
+        "high": 1200,
+        "low": 748.88,
+        "change": {
+          "percentage": -0.058647923,
+          "absolute": -65.22998
+        }
+      },
+      "volume": 371.85342,
+      "volumeQuote": 376879.62
+    },
+    "kraken:etheur": {
+      "price": {
+        "last": 758.11,
+        "high": 775.5,
+        "low": 742,
+        "change": {
+          "percentage": -0.007228657,
+          "absolute": -5.5200195
+        }
+      },
+      "volume": 27065.209,
+      "volumeQuote": 20611926
+    },
+    "kraken:ethgbp": {
+      "price": {
+        "last": 529.63,
+        "high": 600,
+        "low": 529.43,
+        "change": {
+          "percentage": -0.04768501,
+          "absolute": -26.52002
+        }
+      },
+      "volume": 31.172136,
+      "volumeQuote": 17845.953
+    },
+    "kraken:ethjpy": {
+      "price": {
+        "last": 101500,
+        "high": 104332,
+        "low": 100411,
+        "change": {
+          "percentage": -0.0066452012,
+          "absolute": -679
+        }
+      },
+      "volume": 31.13146,
+      "volumeQuote": 3162406.8
+    },
+    "kraken:ethusd": {
+      "price": {
+        "last": 935.22,
+        "high": 958.99,
+        "low": 929.2,
+        "change": {
+          "percentage": -0.0106633,
+          "absolute": -10.080017
+        }
+      },
+      "volume": 19973.404,
+      "volumeQuote": 18851626
+    },
+    "kraken:gnobtc": {
+      "price": {
+        "last": 0.01371,
+        "high": 0.01494,
+        "low": 0.01366,
+        "change": {
+          "percentage": -0.07176714,
+          "absolute": -0.0010600006
+        }
+      },
+      "volume": 533.9367,
+      "volumeQuote": 7.6009126
+    },
+    "kraken:gnoeth": {
+      "price": {
+        "last": 0.17,
+        "high": 0.1843,
+        "low": 0.1672,
+        "change": {
+          "percentage": -0.018475719,
+          "absolute": -0.0031999946
+        }
+      },
+      "volume": 462.06253,
+      "volumeQuote": 79.63431
+    },
+    "kraken:gnoeur": {
+      "price": {
+        "last": 127.32,
+        "high": 135.9,
+        "low": 110,
+        "change": {
+          "percentage": -0.03931185,
+          "absolute": -5.209999
+        }
+      },
+      "volume": 284.33054,
+      "volumeQuote": 36668.812
+    },
+    "kraken:gnousd": {
+      "price": {
+        "last": 162.8,
+        "high": 169.74,
+        "low": 155,
+        "change": {
+          "percentage": -0.02846574,
+          "absolute": -4.7700043
+        }
+      },
+      "volume": 110.268745,
+      "volumeQuote": 17947.414
+    },
+    "kraken:icnbtc": {
+      "price": {
+        "last": 0.000145,
+        "high": 0.000172,
+        "low": 0.000138,
+        "change": {
+          "percentage": -0.15204683,
+          "absolute": -0.000026000009
+        }
+      },
+      "volume": 276714.12,
+      "volumeQuote": 42.77509
+    },
+    "kraken:icneth": {
+      "price": {
+        "last": 0.001808,
+        "high": 0.00204,
+        "low": 0.00176,
+        "change": {
+          "percentage": -0.09870383,
+          "absolute": -0.00019799988
+        }
+      },
+      "volume": 164777,
+      "volumeQuote": 310.85312
+    },
+    "kraken:ltcbtc": {
+      "price": {
+        "last": 0.021096,
+        "high": 0.021981,
+        "low": 0.019293,
+        "change": {
+          "percentage": 0.04513258,
+          "absolute": 0.0009110011
+        }
+      },
+      "volume": 34569.35,
+      "volumeQuote": 718.2085
+    },
+    "kraken:ltccad": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "kraken:ltceur": {
+      "price": {
+        "last": 199.01,
+        "high": 203.79,
+        "low": 178.28,
+        "change": {
+          "percentage": 0.10011057,
+          "absolute": 18.11
+        }
+      },
+      "volume": 47260.777,
+      "volumeQuote": 9172611
+    },
+    "kraken:ltcusd": {
+      "price": {
+        "last": 245.08,
+        "high": 252.63,
+        "low": 220.08,
+        "change": {
+          "percentage": 0.09352136,
+          "absolute": 20.960007
+        }
+      },
+      "volume": 48611.152,
+      "volumeQuote": 11582634
+    },
+    "kraken:mlnbtc": {
+      "price": {
+        "last": 0.012446,
+        "high": 0.013322,
+        "low": 0.012429,
+        "change": {
+          "percentage": -0.059685703,
+          "absolute": -0.00078999996
+        }
+      },
+      "volume": 301.44177,
+      "volumeQuote": 3.9064472
+    },
+    "kraken:mlneth": {
+      "price": {
+        "last": 0.1544,
+        "high": 0.15765,
+        "low": 0.15313,
+        "change": {
+          "percentage": 0.0002591968,
+          "absolute": 0.000040009618
+        }
+      },
+      "volume": 149.65504,
+      "volumeQuote": 23.288275
+    },
+    "kraken:repbtc": {
+      "price": {
+        "last": 0.004444,
+        "high": 0.004887,
+        "low": 0.00443,
+        "change": {
+          "percentage": -0.08597284,
+          "absolute": -0.00041799992
+        }
+      },
+      "volume": 7662.195,
+      "volumeQuote": 35.436157
+    },
+    "kraken:repcad": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "kraken:repeth": {
+      "price": {
+        "last": 0.05522,
+        "high": 0.05765,
+        "low": 0.055,
+        "change": {
+          "percentage": -0.03630019,
+          "absolute": -0.002080001
+        }
+      },
+      "volume": 4790.672,
+      "volumeQuote": 267.9056
+    },
+    "kraken:repeur": {
+      "price": {
+        "last": 41.784,
+        "high": 44.199,
+        "low": 41.603,
+        "change": {
+          "percentage": -0.039624874,
+          "absolute": -1.723999
+        }
+      },
+      "volume": 13687.717,
+      "volumeQuote": 585990.25
+    },
+    "kraken:repjpy": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "kraken:repusd": {
+      "price": {
+        "last": 52.791,
+        "high": 65.55,
+        "low": 51.79,
+        "change": {
+          "percentage": -0.07869108,
+          "absolute": -4.508999
+        }
+      },
+      "volume": 724.2167,
+      "volumeQuote": 38661.523
+    },
+    "kraken:strbtc": {
+      "price": {
+        "last": 0.00003632,
+        "high": 0.0000406,
+        "low": 0.0000361,
+        "change": {
+          "percentage": -0.100544795,
+          "absolute": -0.000004059999
+        }
+      },
+      "volume": 9702556,
+      "volumeQuote": 369.95728
+    },
+    "kraken:streur": {
+      "price": {
+        "last": 0.345355,
+        "high": 0.3645,
+        "low": 0.34,
+        "change": {
+          "percentage": -0.04333794,
+          "absolute": -0.015644997
+        }
+      },
+      "volume": 4745323.5,
+      "volumeQuote": 1665453.1
+    },
+    "kraken:strusd": {
+      "price": {
+        "last": 0.4222,
+        "high": 0.45624,
+        "low": 0.4222,
+        "change": {
+          "percentage": -0.06913988,
+          "absolute": -0.031359017
+        }
+      },
+      "volume": 2653106.2,
+      "volumeQuote": 1166284.1
+    },
+    "kraken:usdtusd": {
+      "price": {
+        "last": 1.003,
+        "high": 1.0042,
+        "low": 1,
+        "change": {
+          "percentage": 0.00029924183,
+          "absolute": 0.00030004978
+        }
+      },
+      "volume": 2553879.8,
+      "volumeQuote": 2557799.8
+    },
+    "kraken:xmrbtc": {
+      "price": {
+        "last": 0.027105,
+        "high": 0.028397,
+        "low": 0.02706,
+        "change": {
+          "percentage": -0.04334172,
+          "absolute": -0.001228001
+        }
+      },
+      "volume": 2979.6733,
+      "volumeQuote": 82.62117
+    },
+    "kraken:xmreur": {
+      "price": {
+        "last": 255.27,
+        "high": 257.86,
+        "low": 248.07,
+        "change": {
+          "percentage": 0.010570064,
+          "absolute": 2.6699982
+        }
+      },
+      "volume": 3923.0679,
+      "volumeQuote": 994132
+    },
+    "kraken:xmrusd": {
+      "price": {
+        "last": 315.82,
+        "high": 319.99,
+        "low": 307,
+        "change": {
+          "percentage": 0.002094186,
+          "absolute": 0.66000366
+        }
+      },
+      "volume": 4108.9673,
+      "volumeQuote": 1291272.6
+    },
+    "kraken:xrpbtc": {
+      "price": {
+        "last": 0.00009393,
+        "high": 0.00010115,
+        "low": 0.00009206,
+        "change": {
+          "percentage": -0.0658379,
+          "absolute": -0.000006620001
+        }
+      },
+      "volume": 5946978.5,
+      "volumeQuote": 579.0612
+    },
+    "kraken:xrpcad": {
+      "price": {
+        "last": 1.24699,
+        "high": 1.38204,
+        "low": 1,
+        "change": {
+          "percentage": -0.040784303,
+          "absolute": -0.05302
+        }
+      },
+      "volume": 35382.863,
+      "volumeQuote": 43194.2
+    },
+    "kraken:xrpeur": {
+      "price": {
+        "last": 0.88627,
+        "high": 0.919,
+        "low": 0.882,
+        "change": {
+          "percentage": -0.015255544,
+          "absolute": -0.0137299895
+        }
+      },
+      "volume": 11196634,
+      "volumeQuote": 10025307
+    },
+    "kraken:xrpjpy": {
+      "price": {
+        "last": 121,
+        "high": 127.349,
+        "low": 116.216,
+        "change": {
+          "percentage": -0.049855117,
+          "absolute": -6.348999
+        }
+      },
+      "volume": 1541.5309,
+      "volumeQuote": 185130.88
+    },
+    "kraken:xrpusd": {
+      "price": {
+        "last": 1.08989,
+        "high": 1.131,
+        "low": 1.08562,
+        "change": {
+          "percentage": -0.023396105,
+          "absolute": -0.026110053
+        }
+      },
+      "volume": 6103793.5,
+      "volumeQuote": 6760494.5
+    },
+    "kraken:zecbtc": {
+      "price": {
+        "last": 0.03963,
+        "high": 0.04376,
+        "low": 0.03956,
+        "change": {
+          "percentage": -0.07102677,
+          "absolute": -0.0030300021
+        }
+      },
+      "volume": 2597.45,
+      "volumeQuote": 107.57914
+    },
+    "kraken:zeccad": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "kraken:zeceur": {
+      "price": {
+        "last": 373.93,
+        "high": 390,
+        "low": 370.14,
+        "change": {
+          "percentage": -0.023617765,
+          "absolute": -9.045013
+        }
+      },
+      "volume": 1661.5942,
+      "volumeQuote": 630669.06
+    },
+    "kraken:zecgbp": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "kraken:zecjpy": {
+      "price": {
+        "last": 52869.83,
+        "high": 52879.773,
+        "low": 6000.012,
+        "change": {
+          "percentage": -0.00017485354,
+          "absolute": -9.246094
+        }
+      },
+      "volume": 3.8533146,
+      "volumeQuote": 190227.12
+    },
+    "kraken:zecusd": {
+      "price": {
+        "last": 459.8,
+        "high": 484,
+        "low": 455.69,
+        "change": {
+          "percentage": -0.031612664,
+          "absolute": -15.01001
+        }
+      },
+      "volume": 1152.4125,
+      "volumeQuote": 541608
+    },
+    "luno:btczar": {
+      "price": {
+        "last": 141909,
+        "high": 143299,
+        "low": 133001,
+        "change": {
+          "percentage": 0.06259875,
+          "absolute": 8360
+        }
+      },
+      "volume": 716.4233,
+      "volumeQuote": 99048800
+    },
+    "luno:ethbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "okcoin:btccny": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "okcoin:btcusd": {
+      "price": {
+        "last": 12343.95,
+        "high": 12348.81,
+        "low": 11619.81,
+        "change": {
+          "percentage": 0.038850233,
+          "absolute": 461.63086
+        }
+      },
+      "volume": 67.58542,
+      "volumeQuote": 809714
+    },
+    "okcoin:btcusd-biweekly-futures": {
+      "price": {
+        "last": 11616.24,
+        "high": 11686.48,
+        "low": 10941.22,
+        "change": {
+          "percentage": 0.046725,
+          "absolute": 518.54004
+        }
+      },
+      "volume": 754842,
+      "volumeQuote": 8618562000
+    },
+    "okcoin:btcusd-quarterly-futures": {
+      "price": {
+        "last": 11688.59,
+        "high": 11734.93,
+        "low": 10967.78,
+        "change": {
+          "percentage": 0.049264826,
+          "absolute": 548.7998
+        }
+      },
+      "volume": 10716240,
+      "volumeQuote": 122993790000
+    },
+    "okcoin:btcusd-weekly-futures": {
+      "price": {
+        "last": 11610.22,
+        "high": 11677.14,
+        "low": 10910,
+        "change": {
+          "percentage": 0.046486113,
+          "absolute": 515.73926
+        }
+      },
+      "volume": 4746512,
+      "volumeQuote": 54120976000
+    },
+    "okcoin:ltccny": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "okcoin:ltcusd": {
+      "price": {
+        "last": 261.2,
+        "high": 265.999,
+        "low": 235,
+        "change": {
+          "percentage": 0.08833338,
+          "absolute": 21.200012
+        }
+      },
+      "volume": 1526.3977,
+      "volumeQuote": 371240.3
+    },
+    "okcoin:ltcusd-biweekly-futures": {
+      "price": {
+        "last": 245.829,
+        "high": 253.49,
+        "low": 222.342,
+        "change": {
+          "percentage": 0.09866726,
+          "absolute": 22.076996
+        }
+      },
+      "volume": 1257596,
+      "volumeQuote": 301001630
+    },
+    "okcoin:ltcusd-quarterly-futures": {
+      "price": {
+        "last": 250.658,
+        "high": 260.562,
+        "low": 225,
+        "change": {
+          "percentage": 0.101996906,
+          "absolute": 23.200012
+        }
+      },
+      "volume": 5581894,
+      "volumeQuote": 1364310500
+    },
+    "okcoin:ltcusd-weekly-futures": {
+      "price": {
+        "last": 244.579,
+        "high": 253.5,
+        "low": 221.17,
+        "change": {
+          "percentage": 0.09780063,
+          "absolute": 21.789001
+        }
+      },
+      "volume": 8038670,
+      "volumeQuote": 1921466400
+    },
+    "poloniex:ampbtc": {
+      "price": {
+        "last": 0.00002854,
+        "high": 0.0000311,
+        "low": 0.00002632,
+        "change": {
+          "percentage": -0.07935482,
+          "absolute": -0.0000024599995
+        }
+      },
+      "volume": 719840,
+      "volumeQuote": 21.07946
+    },
+    "poloniex:ardrbtc": {
+      "price": {
+        "last": 0.00004061,
+        "high": 0.000046,
+        "low": 0.00003965,
+        "change": {
+          "percentage": -0.08884896,
+          "absolute": -0.000003959998
+        }
+      },
+      "volume": 544728.25,
+      "volumeQuote": 22.90042
+    },
+    "poloniex:bchbtc": {
+      "price": {
+        "last": 0.12923,
+        "high": 0.13805154,
+        "low": 0.12920855,
+        "change": {
+          "percentage": -0.058776453,
+          "absolute": -0.008070007
+        }
+      },
+      "volume": 3317.323,
+      "volumeQuote": 441.56244
+    },
+    "poloniex:bcheth": {
+      "price": {
+        "last": 1.5984588,
+        "high": 1.6374555,
+        "low": 1.5911853,
+        "change": {
+          "percentage": -0.010242255,
+          "absolute": -0.016541243
+        }
+      },
+      "volume": 121.873116,
+      "volumeQuote": 195.84819
+    },
+    "poloniex:bchusdt": {
+      "price": {
+        "last": 1500,
+        "high": 1550,
+        "low": 1480,
+        "change": {
+          "percentage": -0.012473866,
+          "absolute": -18.947144
+        }
+      },
+      "volume": 4460.092,
+      "volumeQuote": 6726352
+    },
+    "poloniex:bcnbtc": {
+      "price": {
+        "last": 5e-7,
+        "high": 5.3e-7,
+        "low": 4.9e-7,
+        "change": {
+          "percentage": -0.056603815,
+          "absolute": -3.0000024e-8
+        }
+      },
+      "volume": 98943750,
+      "volumeQuote": 50.498947
+    },
+    "poloniex:bcnxmr": {
+      "price": {
+        "last": 0.00001853,
+        "high": 0.00001906,
+        "low": 0.00001818,
+        "change": {
+          "percentage": -0.012260144,
+          "absolute": -2.300003e-7
+        }
+      },
+      "volume": 512381.25,
+      "volumeQuote": 9.606011
+    },
+    "poloniex:bcybtc": {
+      "price": {
+        "last": 0.00004722,
+        "high": 0.00005199,
+        "low": 0.00004623,
+        "change": {
+          "percentage": -0.049325556,
+          "absolute": -0.0000024500005
+        }
+      },
+      "volume": 61900.484,
+      "volumeQuote": 3.0297446
+    },
+    "poloniex:belabtc": {
+      "price": {
+        "last": 0.00001283,
+        "high": 0.00001418,
+        "low": 0.00001251,
+        "change": {
+          "percentage": -0.08487876,
+          "absolute": -0.0000011900001
+        }
+      },
+      "volume": 182690.06,
+      "volumeQuote": 2.4612782
+    },
+    "poloniex:blkbtc": {
+      "price": {
+        "last": 0.00003364,
+        "high": 0.00003848,
+        "low": 0.00003346,
+        "change": {
+          "percentage": -0.089087434,
+          "absolute": -0.0000032899989
+        }
+      },
+      "volume": 129673.78,
+      "volumeQuote": 4.7166996
+    },
+    "poloniex:blkxmr": {
+      "price": {
+        "last": 0.00124084,
+        "high": 0.00135937,
+        "low": 0.00124083,
+        "change": {
+          "percentage": -0.042561747,
+          "absolute": -0.000055160024
+        }
+      },
+      "volume": 3559.8008,
+      "volumeQuote": 4.592451
+    },
+    "poloniex:btcdbtc": {
+      "price": {
+        "last": 0.01022527,
+        "high": 0.01090847,
+        "low": 0.01022527,
+        "change": {
+          "percentage": -0.05309296,
+          "absolute": -0.0005733296
+        }
+      },
+      "volume": 105.63536,
+      "volumeQuote": 1.119688
+    },
+    "poloniex:btcdxmr": {
+      "price": {
+        "last": 0.37795547,
+        "high": 0.390287,
+        "low": 0.34260193,
+        "change": {
+          "percentage": -0.014852774,
+          "absolute": -0.0056983232
+        }
+      },
+      "volume": 26.767982,
+      "volumeQuote": 9.848111
+    },
+    "poloniex:btcusdt": {
+      "price": {
+        "last": 11592,
+        "high": 11650,
+        "low": 10898.724,
+        "change": {
+          "percentage": 0.045208756,
+          "absolute": 501.39258
+        }
+      },
+      "volume": 3529.8474,
+      "volumeQuote": 40109204
+    },
+    "poloniex:btmbtc": {
+      "price": {
+        "last": 0.00007529,
+        "high": 0.00008292,
+        "low": 0.00007291,
+        "change": {
+          "percentage": -0.068308376,
+          "absolute": -0.00000552
+        }
+      },
+      "volume": 42848.555,
+      "volumeQuote": 3.2775357
+    },
+    "poloniex:btsbtc": {
+      "price": {
+        "last": 0.000022,
+        "high": 0.00002419,
+        "low": 0.0000202,
+        "change": {
+          "percentage": -0.07640634,
+          "absolute": -0.0000018199989
+        }
+      },
+      "volume": 15255221,
+      "volumeQuote": 342.36896
+    },
+    "poloniex:burstbtc": {
+      "price": {
+        "last": 0.00000342,
+        "high": 0.000004,
+        "low": 0.00000338,
+        "change": {
+          "percentage": -0.06557376,
+          "absolute": -2.3999996e-7
+        }
+      },
+      "volume": 7606188.5,
+      "volumeQuote": 27.957071
+    },
+    "poloniex:clambtc": {
+      "price": {
+        "last": 0.00055157,
+        "high": 0.00057997,
+        "low": 0.00054133,
+        "change": {
+          "percentage": -0.024426052,
+          "absolute": -0.00001381
+        }
+      },
+      "volume": 34385.344,
+      "volumeQuote": 19.166437
+    },
+    "poloniex:cvcbtc": {
+      "price": {
+        "last": 0.00003708,
+        "high": 0.00004261,
+        "low": 0.00003706,
+        "change": {
+          "percentage": -0.1219512,
+          "absolute": -0.000005149999
+        }
+      },
+      "volume": 431080.62,
+      "volumeQuote": 16.939846
+    },
+    "poloniex:cvceth": {
+      "price": {
+        "last": 0.00046568,
+        "high": 0.00049915,
+        "low": 0.00045935,
+        "change": {
+          "percentage": -0.05493663,
+          "absolute": -0.000027070026
+        }
+      },
+      "volume": 70761.516,
+      "volumeQuote": 34.158867
+    },
+    "poloniex:daobtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:daoeth": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:dashbtc": {
+      "price": {
+        "last": 0.0629,
+        "high": 0.06628999,
+        "low": 0.06278769,
+        "change": {
+          "percentage": -0.032307666,
+          "absolute": -0.0020999983
+        }
+      },
+      "volume": 3310.3267,
+      "volumeQuote": 212.5575
+    },
+    "poloniex:dashusdt": {
+      "price": {
+        "last": 731.3901,
+        "high": 736.84,
+        "low": 711.7788,
+        "change": {
+          "percentage": 0.017232371,
+          "absolute": 12.390076
+        }
+      },
+      "volume": 584.5237,
+      "volumeQuote": 424164.97
+    },
+    "poloniex:dashxmr": {
+      "price": {
+        "last": 2.307677,
+        "high": 2.34,
+        "low": 2.2887893,
+        "change": {
+          "percentage": 0.0015959765,
+          "absolute": 0.0036771297
+        }
+      },
+      "volume": 2.1280367,
+      "volumeQuote": 4.9267616
+    },
+    "poloniex:dcrbtc": {
+      "price": {
+        "last": 0.00736002,
+        "high": 0.0083271,
+        "low": 0.00730583,
+        "change": {
+          "percentage": -0.09252291,
+          "absolute": -0.00075039966
+        }
+      },
+      "volume": 6233.361,
+      "volumeQuote": 47.90994
+    },
+    "poloniex:dgbbtc": {
+      "price": {
+        "last": 0.00000374,
+        "high": 0.00000403,
+        "low": 0.00000364,
+        "change": {
+          "percentage": -0.053164568,
+          "absolute": -2.1000005e-7
+        }
+      },
+      "volume": 34641120,
+      "volumeQuote": 132.75804
+    },
+    "poloniex:dogebtc": {
+      "price": {
+        "last": 6.8e-7,
+        "high": 7.1e-7,
+        "low": 5.3e-7,
+        "change": {
+          "percentage": 0.11475419,
+          "absolute": 7.0000056e-8
+        }
+      },
+      "volume": 1344494800,
+      "volumeQuote": 834.40936
+    },
+    "poloniex:emc2btc": {
+      "price": {
+        "last": 0.00003249,
+        "high": 0.00003624,
+        "low": 0.00003249,
+        "change": {
+          "percentage": -0.0811652,
+          "absolute": -0.0000028700015
+        }
+      },
+      "volume": 604304.56,
+      "volumeQuote": 20.46412
+    },
+    "poloniex:etcbtc": {
+      "price": {
+        "last": 0.00342861,
+        "high": 0.00374015,
+        "low": 0.00342058,
+        "change": {
+          "percentage": -0.012098728,
+          "absolute": -0.000041989842
+        }
+      },
+      "volume": 397100.12,
+      "volumeQuote": 1412.5006
+    },
+    "poloniex:etceth": {
+      "price": {
+        "last": 0.043,
+        "high": 0.04525995,
+        "low": 0.04051131,
+        "change": {
+          "percentage": 0.053348735,
+          "absolute": 0.0021778122
+        }
+      },
+      "volume": 38454.35,
+      "volumeQuote": 1649.1854
+    },
+    "poloniex:etcusdt": {
+      "price": {
+        "last": 39.80897,
+        "high": 42.851337,
+        "low": 37.9974,
+        "change": {
+          "percentage": 0.03153034,
+          "absolute": 1.2168236
+        }
+      },
+      "volume": 279017.88,
+      "volumeQuote": 11316232
+    },
+    "poloniex:ethbtc": {
+      "price": {
+        "last": 0.080526,
+        "high": 0.0860824,
+        "low": 0.080451,
+        "change": {
+          "percentage": -0.053670242,
+          "absolute": -0.00456696
+        }
+      },
+      "volume": 26306.543,
+      "volumeQuote": 2186.2842
+    },
+    "poloniex:ethusdt": {
+      "price": {
+        "last": 929.91345,
+        "high": 959.311,
+        "low": 921,
+        "change": {
+          "percentage": -0.017524086,
+          "absolute": -16.586548
+        }
+      },
+      "volume": 5214.152,
+      "volumeQuote": 4909678
+    },
+    "poloniex:expbtc": {
+      "price": {
+        "last": 0.00030886,
+        "high": 0.00033071,
+        "low": 0.00029709,
+        "change": {
+          "percentage": -0.05344776,
+          "absolute": -0.000017440005
+        }
+      },
+      "volume": 38627.33,
+      "volumeQuote": 12.030592
+    },
+    "poloniex:fctbtc": {
+      "price": {
+        "last": 0.00281001,
+        "high": 0.00302119,
+        "low": 0.00281,
+        "change": {
+          "percentage": -0.062480018,
+          "absolute": -0.00018727011
+        }
+      },
+      "volume": 22596.54,
+      "volumeQuote": 65.25119
+    },
+    "poloniex:fldcbtc": {
+      "price": {
+        "last": 0.00000262,
+        "high": 0.00000271,
+        "low": 0.00000254,
+        "change": {
+          "percentage": 0.0076923138,
+          "absolute": 2.0000016e-8
+        }
+      },
+      "volume": 1834745,
+      "volumeQuote": 4.803621
+    },
+    "poloniex:flobtc": {
+      "price": {
+        "last": 0.0000103,
+        "high": 0.00001107,
+        "low": 0.00000983,
+        "change": {
+          "percentage": -0.06955736,
+          "absolute": -7.7000004e-7
+        }
+      },
+      "volume": 390028.25,
+      "volumeQuote": 4.013286
+    },
+    "poloniex:gamebtc": {
+      "price": {
+        "last": 0.00025526,
+        "high": 0.00037,
+        "low": 0.00025091,
+        "change": {
+          "percentage": -0.031013925,
+          "absolute": -0.000008169998
+        }
+      },
+      "volume": 433187.75,
+      "volumeQuote": 130.3378
+    },
+    "poloniex:gasbtc": {
+      "price": {
+        "last": 0.004075,
+        "high": 0.0043,
+        "low": 0.004075,
+        "change": {
+          "percentage": -0.032117113,
+          "absolute": -0.00013522012
+        }
+      },
+      "volume": 10234.397,
+      "volumeQuote": 43.71741
+    },
+    "poloniex:gaseth": {
+      "price": {
+        "last": 0.05064,
+        "high": 0.05225512,
+        "low": 0.0495,
+        "change": {
+          "percentage": 0.02166703,
+          "absolute": 0.001073949
+        }
+      },
+      "volume": 654.17645,
+      "volumeQuote": 33.13421
+    },
+    "poloniex:gnobtc": {
+      "price": {
+        "last": 0.013309,
+        "high": 0.01470216,
+        "low": 0.01294767,
+        "change": {
+          "percentage": -0.08283497,
+          "absolute": -0.0012020199
+        }
+      },
+      "volume": 608.65283,
+      "volumeQuote": 8.459427
+    },
+    "poloniex:gnoeth": {
+      "price": {
+        "last": 0.16766603,
+        "high": 0.17157646,
+        "low": 0.16127206,
+        "change": {
+          "percentage": -0.016556073,
+          "absolute": -0.0028226227
+        }
+      },
+      "volume": 114.6473,
+      "volumeQuote": 19.253063
+    },
+    "poloniex:gntbtc": {
+      "price": {
+        "last": 0.000035,
+        "high": 0.00004083,
+        "low": 0.00003472,
+        "change": {
+          "percentage": -0.13301954,
+          "absolute": -0.0000053699987
+        }
+      },
+      "volume": 869702.9,
+      "volumeQuote": 32.663296
+    },
+    "poloniex:gnteth": {
+      "price": {
+        "last": 0.00043544,
+        "high": 0.00047655,
+        "low": 0.00043304,
+        "change": {
+          "percentage": -0.079641536,
+          "absolute": -0.00003768
+        }
+      },
+      "volume": 150540.94,
+      "volumeQuote": 69.1992
+    },
+    "poloniex:grcbtc": {
+      "price": {
+        "last": 0.00000662,
+        "high": 0.00000675,
+        "low": 0.00000658,
+        "change": {
+          "percentage": -0.017804168,
+          "absolute": -1.200001e-7
+        }
+      },
+      "volume": 228326.72,
+      "volumeQuote": 1.5153092
+    },
+    "poloniex:hucbtc": {
+      "price": {
+        "last": 0.00002285,
+        "high": 0.00002285,
+        "low": 0.000022,
+        "change": {
+          "percentage": 0.038636327,
+          "absolute": 8.499992e-7
+        }
+      },
+      "volume": 144436.97,
+      "volumeQuote": 3.1855175
+    },
+    "poloniex:lbcbtc": {
+      "price": {
+        "last": 0.00003342,
+        "high": 0.00003654,
+        "low": 0.00003051,
+        "change": {
+          "percentage": -0.07883123,
+          "absolute": -0.000002859997
+        }
+      },
+      "volume": 734548.94,
+      "volumeQuote": 24.217505
+    },
+    "poloniex:lskbtc": {
+      "price": {
+        "last": 0.00240623,
+        "high": 0.00269995,
+        "low": 0.00235793,
+        "change": {
+          "percentage": -0.09879368,
+          "absolute": -0.00026378012
+        }
+      },
+      "volume": 182979.77,
+      "volumeQuote": 460.58563
+    },
+    "poloniex:lsketh": {
+      "price": {
+        "last": 0.03001068,
+        "high": 0.03185223,
+        "low": 0.02845663,
+        "change": {
+          "percentage": -0.04523776,
+          "absolute": -0.0014219414
+        }
+      },
+      "volume": 5028.0874,
+      "volumeQuote": 152.05888
+    },
+    "poloniex:ltcbtc": {
+      "price": {
+        "last": 0.02116556,
+        "high": 0.0220066,
+        "low": 0.01928475,
+        "change": {
+          "percentage": 0.051185656,
+          "absolute": 0.0010306202
+        }
+      },
+      "volume": 131915.31,
+      "volumeQuote": 2731.764
+    },
+    "poloniex:ltcusdt": {
+      "price": {
+        "last": 244.74,
+        "high": 252,
+        "low": 221,
+        "change": {
+          "percentage": 0.09507036,
+          "absolute": 21.247513
+        }
+      },
+      "volume": 47572.477,
+      "volumeQuote": 11319769
+    },
+    "poloniex:ltcxmr": {
+      "price": {
+        "last": 0.77701527,
+        "high": 0.7925029,
+        "low": 0.70193607,
+        "change": {
+          "percentage": 0.08655371,
+          "absolute": 0.061896205
+        }
+      },
+      "volume": 358.20724,
+      "volumeQuote": 272.47934
+    },
+    "poloniex:maidbtc": {
+      "price": {
+        "last": 0.00004139,
+        "high": 0.00004379,
+        "low": 0.00004055,
+        "change": {
+          "percentage": -0.021281617,
+          "absolute": -8.999996e-7
+        }
+      },
+      "volume": 1591863,
+      "volumeQuote": 66.225044
+    },
+    "poloniex:maidxmr": {
+      "price": {
+        "last": 0.00153869,
+        "high": 0.00157005,
+        "low": 0.00146967,
+        "change": {
+          "percentage": 0.024304638,
+          "absolute": 0.00003650994
+        }
+      },
+      "volume": 3656.5374,
+      "volumeQuote": 5.6225705
+    },
+    "poloniex:nautbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:navbtc": {
+      "price": {
+        "last": 0.00017419,
+        "high": 0.00018842,
+        "low": 0.0001707,
+        "change": {
+          "percentage": -0.042912077,
+          "absolute": -0.000007809998
+        }
+      },
+      "volume": 32378.232,
+      "volumeQuote": 5.8468328
+    },
+    "poloniex:neosbtc": {
+      "price": {
+        "last": 0.00038454,
+        "high": 0.00040439,
+        "low": 0.00037385,
+        "change": {
+          "percentage": -0.0011947689,
+          "absolute": -4.5998604e-7
+        }
+      },
+      "volume": 10632.373,
+      "volumeQuote": 4.0980263
+    },
+    "poloniex:nmcbtc": {
+      "price": {
+        "last": 0.00027002,
+        "high": 0.00028284,
+        "low": 0.00025997,
+        "change": {
+          "percentage": -0.045325894,
+          "absolute": -0.000012819975
+        }
+      },
+      "volume": 17052.57,
+      "volumeQuote": 4.6224046
+    },
+    "poloniex:notebtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:nxcbtc": {
+      "price": {
+        "last": 0.00002105,
+        "high": 0.00002368,
+        "low": 0.000021,
+        "change": {
+          "percentage": -0.09501287,
+          "absolute": -0.0000022099994
+        }
+      },
+      "volume": 119512.22,
+      "volumeQuote": 2.652038
+    },
+    "poloniex:nxtbtc": {
+      "price": {
+        "last": 0.00002188,
+        "high": 0.00002439,
+        "low": 0.0000217,
+        "change": {
+          "percentage": -0.096987195,
+          "absolute": -0.0000023499997
+        }
+      },
+      "volume": 3512328,
+      "volumeQuote": 81.028435
+    },
+    "poloniex:nxtusdt": {
+      "price": {
+        "last": 0.25379315,
+        "high": 0.2699,
+        "low": 0.24800101,
+        "change": {
+          "percentage": -0.049819753,
+          "absolute": -0.013306856
+        }
+      },
+      "volume": 6423105,
+      "volumeQuote": 1687043.6
+    },
+    "poloniex:nxtxmr": {
+      "price": {
+        "last": 0.00080057,
+        "high": 0.00086795,
+        "low": 0.00080057,
+        "change": {
+          "percentage": -0.05207509,
+          "absolute": -0.00004398002
+        }
+      },
+      "volume": 13358.6455,
+      "volumeQuote": 11.224227
+    },
+    "poloniex:omgbtc": {
+      "price": {
+        "last": 0.0016388,
+        "high": 0.001685,
+        "low": 0.00154528,
+        "change": {
+          "percentage": 0.032555625,
+          "absolute": 0.00005167001
+        }
+      },
+      "volume": 47766.85,
+      "volumeQuote": 76.53417
+    },
+    "poloniex:omgeth": {
+      "price": {
+        "last": 0.02032,
+        "high": 0.02076637,
+        "low": 0.01844399,
+        "change": {
+          "percentage": 0.07963818,
+          "absolute": 0.0014988799
+        }
+      },
+      "volume": 32652.53,
+      "volumeQuote": 647.101
+    },
+    "poloniex:omnibtc": {
+      "price": {
+        "last": 0.0038,
+        "high": 0.0039595,
+        "low": 0.00365476,
+        "change": {
+          "percentage": -0.008001207,
+          "absolute": -0.000030649826
+        }
+      },
+      "volume": 1285.4265,
+      "volumeQuote": 4.916552
+    },
+    "poloniex:pascbtc": {
+      "price": {
+        "last": 0.00015928,
+        "high": 0.00017,
+        "low": 0.00014224,
+        "change": {
+          "percentage": 0.111902244,
+          "absolute": 0.000016029997
+        }
+      },
+      "volume": 160771.67,
+      "volumeQuote": 25.716742
+    },
+    "poloniex:pinkbtc": {
+      "price": {
+        "last": 0.00000281,
+        "high": 0.0000031,
+        "low": 0.00000276,
+        "change": {
+          "percentage": -0.075657845,
+          "absolute": -2.2999984e-7
+        }
+      },
+      "volume": 1025581.9,
+      "volumeQuote": 2.9631102
+    },
+    "poloniex:potbtc": {
+      "price": {
+        "last": 0.00001633,
+        "high": 0.0000172,
+        "low": 0.00001581,
+        "change": {
+          "percentage": -0.039411828,
+          "absolute": -6.700011e-7
+        }
+      },
+      "volume": 564902.2,
+      "volumeQuote": 9.298472
+    },
+    "poloniex:ppcbtc": {
+      "price": {
+        "last": 0.000354,
+        "high": 0.00037048,
+        "low": 0.0003495,
+        "change": {
+          "percentage": -0.04020823,
+          "absolute": -0.000014830002
+        }
+      },
+      "volume": 11470.463,
+      "volumeQuote": 4.1091466
+    },
+    "poloniex:radsbtc": {
+      "price": {
+        "last": 0.00059261,
+        "high": 0.00065436,
+        "low": 0.00057812,
+        "change": {
+          "percentage": -0.083654195,
+          "absolute": -0.000054100004
+        }
+      },
+      "volume": 6067.563,
+      "volumeQuote": 3.6754348
+    },
+    "poloniex:repbtc": {
+      "price": {
+        "last": 0.00445572,
+        "high": 0.00488749,
+        "low": 0.00444444,
+        "change": {
+          "percentage": -0.07827311,
+          "absolute": -0.00037838006
+        }
+      },
+      "volume": 9388.569,
+      "volumeQuote": 43.448257
+    },
+    "poloniex:repeth": {
+      "price": {
+        "last": 0.0552636,
+        "high": 0.05777334,
+        "low": 0.05477562,
+        "change": {
+          "percentage": -0.030463137,
+          "absolute": -0.0017363988
+        }
+      },
+      "volume": 1444.1017,
+      "volumeQuote": 81.02249
+    },
+    "poloniex:repusdt": {
+      "price": {
+        "last": 51.622616,
+        "high": 54.79729,
+        "low": 51.0501,
+        "change": {
+          "percentage": -0.045792658,
+          "absolute": -2.4773827
+        }
+      },
+      "volume": 6680.2153,
+      "volumeQuote": 354011.56
+    },
+    "poloniex:ricbtc": {
+      "price": {
+        "last": 0.00001535,
+        "high": 0.00001746,
+        "low": 0.0000151,
+        "change": {
+          "percentage": -0.09278953,
+          "absolute": -0.0000015699989
+        }
+      },
+      "volume": 262509,
+      "volumeQuote": 4.2256255
+    },
+    "poloniex:sbdbtc": {
+      "price": {
+        "last": 0.00039217,
+        "high": 0.00043626,
+        "low": 0.00039217,
+        "change": {
+          "percentage": -0.08247152,
+          "absolute": -0.000035249977
+        }
+      },
+      "volume": 4020.1987,
+      "volumeQuote": 1.6573291
+    },
+    "poloniex:scbtc": {
+      "price": {
+        "last": 0.00000226,
+        "high": 0.00000259,
+        "low": 0.00000222,
+        "change": {
+          "percentage": -0.095999986,
+          "absolute": -2.3999996e-7
+        }
+      },
+      "volume": 77287790,
+      "volumeQuote": 182.14766
+    },
+    "poloniex:sdcbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:sjcxbtc": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "poloniex:steembtc": {
+      "price": {
+        "last": 0.00033754,
+        "high": 0.00037754,
+        "low": 0.00033754,
+        "change": {
+          "percentage": -0.103622265,
+          "absolute": -0.00003902
+        }
+      },
+      "volume": 113717.39,
+      "volumeQuote": 39.95412
+    },
+    "poloniex:steemeth": {
+      "price": {
+        "last": 0.00419624,
+        "high": 0.00443427,
+        "low": 0.00289106,
+        "change": {
+          "percentage": -0.039243087,
+          "absolute": -0.00017139968
+        }
+      },
+      "volume": 13097.362,
+      "volumeQuote": 48.701008
+    },
+    "poloniex:storjbtc": {
+      "price": {
+        "last": 0.00009353,
+        "high": 0.00010679,
+        "low": 0.00009282,
+        "change": {
+          "percentage": -0.086531885,
+          "absolute": -0.000008859999
+        }
+      },
+      "volume": 109191.83,
+      "volumeQuote": 10.856549
+    },
+    "poloniex:stratbtc": {
+      "price": {
+        "last": 0.000821,
+        "high": 0.0009025,
+        "low": 0.00082001,
+        "change": {
+          "percentage": -0.060285874,
+          "absolute": -0.00005266996
+        }
+      },
+      "volume": 134357.75,
+      "volumeQuote": 114.98494
+    },
+    "poloniex:strbtc": {
+      "price": {
+        "last": 0.00003621,
+        "high": 0.00004071,
+        "low": 0.000036,
+        "change": {
+          "percentage": -0.10059617,
+          "absolute": -0.0000040500017
+        }
+      },
+      "volume": 27127198,
+      "volumeQuote": 1034.1692
+    },
+    "poloniex:strusdt": {
+      "price": {
+        "last": 0.421,
+        "high": 0.45,
+        "low": 0.42001,
+        "change": {
+          "percentage": -0.056561373,
+          "absolute": -0.025239944
+        }
+      },
+      "volume": 5773181,
+      "volumeQuote": 2505641.8
+    },
+    "poloniex:sysbtc": {
+      "price": {
+        "last": 0.00006503,
+        "high": 0.00006606,
+        "low": 0.00006352,
+        "change": {
+          "percentage": 0.017524572,
+          "absolute": 0.0000011199954
+        }
+      },
+      "volume": 411228.88,
+      "volumeQuote": 26.619097
+    },
+    "poloniex:viabtc": {
+      "price": {
+        "last": 0.00028301,
+        "high": 0.00033,
+        "low": 0.00028,
+        "change": {
+          "percentage": -0.094367936,
+          "absolute": -0.00002948998
+        }
+      },
+      "volume": 51739.953,
+      "volumeQuote": 15.466074
+    },
+    "poloniex:vrcbtc": {
+      "price": {
+        "last": 0.00007841,
+        "high": 0.00009,
+        "low": 0.00007812,
+        "change": {
+          "percentage": -0.0537051,
+          "absolute": -0.000004450005
+        }
+      },
+      "volume": 195912.97,
+      "volumeQuote": 16.541294
+    },
+    "poloniex:vtcbtc": {
+      "price": {
+        "last": 0.00042222,
+        "high": 0.00045,
+        "low": 0.00038015,
+        "change": {
+          "percentage": 0.10125195,
+          "absolute": 0.00003882
+        }
+      },
+      "volume": 220267.34,
+      "volumeQuote": 91.50867
+    },
+    "poloniex:xbcbtc": {
+      "price": {
+        "last": 0.00765001,
+        "high": 0.00809,
+        "low": 0.00763375,
+        "change": {
+          "percentage": -0.011537231,
+          "absolute": -0.000089290086
+        }
+      },
+      "volume": 536.7733,
+      "volumeQuote": 4.202743
+    },
+    "poloniex:xcpbtc": {
+      "price": {
+        "last": 0.00265546,
+        "high": 0.00275044,
+        "low": 0.00253842,
+        "change": {
+          "percentage": -0.01649631,
+          "absolute": -0.000044540036
+        }
+      },
+      "volume": 8343.306,
+      "volumeQuote": 22.06352
+    },
+    "poloniex:xembtc": {
+      "price": {
+        "last": 0.00004242,
+        "high": 0.00004728,
+        "low": 0.00004199,
+        "change": {
+          "percentage": -0.09203767,
+          "absolute": -0.0000043
+        }
+      },
+      "volume": 5495081,
+      "volumeQuote": 242.77188
+    },
+    "poloniex:xmrbtc": {
+      "price": {
+        "last": 0.02709703,
+        "high": 0.02846891,
+        "low": 0.02709703,
+        "change": {
+          "percentage": -0.040904094,
+          "absolute": -0.0011556502
+        }
+      },
+      "volume": 15364.216,
+      "volumeQuote": 425.1756
+    },
+    "poloniex:xmrusdt": {
+      "price": {
+        "last": 312.7758,
+        "high": 319,
+        "low": 305,
+        "change": {
+          "percentage": 0.0018355352,
+          "absolute": 0.5730591
+        }
+      },
+      "volume": 2386.3208,
+      "volumeQuote": 746387.6
+    },
+    "poloniex:xpmbtc": {
+      "price": {
+        "last": 0.00006521,
+        "high": 0.00006976,
+        "low": 0.00006521,
+        "change": {
+          "percentage": -0.031630535,
+          "absolute": -0.0000021300002
+        }
+      },
+      "volume": 50127.26,
+      "volumeQuote": 3.3764825
+    },
+    "poloniex:xrpbtc": {
+      "price": {
+        "last": 0.00009378,
+        "high": 0.00010125,
+        "low": 0.00009347,
+        "change": {
+          "percentage": -0.06556395,
+          "absolute": -0.0000065799977
+        }
+      },
+      "volume": 17603522,
+      "volumeQuote": 1709.4529
+    },
+    "poloniex:xrpusdt": {
+      "price": {
+        "last": 1.0850028,
+        "high": 1.1328,
+        "low": 1.0830088,
+        "change": {
+          "percentage": -0.025214277,
+          "absolute": -0.028065205
+        }
+      },
+      "volume": 6092071.5,
+      "volumeQuote": 6724955.5
+    },
+    "poloniex:xvcbtc": {
+      "price": {
+        "last": 0.00004534,
+        "high": 0.00004966,
+        "low": 0.0000439,
+        "change": {
+          "percentage": -0.05324705,
+          "absolute": -0.0000025500012
+        }
+      },
+      "volume": 24179.092,
+      "volumeQuote": 1.1334698
+    },
+    "poloniex:zecbtc": {
+      "price": {
+        "last": 0.03942084,
+        "high": 0.04362083,
+        "low": 0.03934436,
+        "change": {
+          "percentage": -0.07232229,
+          "absolute": -0.0030732714
+        }
+      },
+      "volume": 7601.8657,
+      "volumeQuote": 312.57843
+    },
+    "poloniex:zeceth": {
+      "price": {
+        "last": 0.49040374,
+        "high": 0.515,
+        "low": 0.48001,
+        "change": {
+          "percentage": -0.0150361955,
+          "absolute": -0.007486373
+        }
+      },
+      "volume": 302.5365,
+      "volumeQuote": 148.89526
+    },
+    "poloniex:zecusdt": {
+      "price": {
+        "last": 457,
+        "high": 483,
+        "low": 449.77048,
+        "change": {
+          "percentage": -0.037894737,
+          "absolute": -18
+        }
+      },
+      "volume": 3570.8752,
+      "volumeQuote": 1634989
+    },
+    "poloniex:zecxmr": {
+      "price": {
+        "last": 1.4620061,
+        "high": 1.5392944,
+        "low": 1.462,
+        "change": {
+          "percentage": -0.03379695,
+          "absolute": -0.051139712
+        }
+      },
+      "volume": 76.70055,
+      "volumeQuote": 114.33307
+    },
+    "poloniex:zrxbtc": {
+      "price": {
+        "last": 0.00009783,
+        "high": 0.0001074,
+        "low": 0.00009727,
+        "change": {
+          "percentage": -0.085187964,
+          "absolute": -0.000009110001
+        }
+      },
+      "volume": 418516.75,
+      "volumeQuote": 43.16985
+    },
+    "poloniex:zrxeth": {
+      "price": {
+        "last": 0.00120496,
+        "high": 0.00128466,
+        "low": 0.00120494,
+        "change": {
+          "percentage": -0.032168336,
+          "absolute": -0.000040049898
+        }
+      },
+      "volume": 95872.734,
+      "volumeQuote": 119.11658
+    },
+    "qryptos:etcbtc": {
+      "price": {
+        "last": 0.00346566,
+        "high": 0.00363709,
+        "low": 0.00341099,
+        "change": {
+          "percentage": 0.0075442134,
+          "absolute": 0.000025949907
+        }
+      },
+      "volume": 2942.0469,
+      "volumeQuote": 10.2941475
+    },
+    "qryptos:ethbtc": {
+      "price": {
+        "last": 0.08157,
+        "high": 0.08711894,
+        "low": 0.08140965,
+        "change": {
+          "percentage": -0.045880467,
+          "absolute": -0.0039224327
+        }
+      },
+      "volume": 194.51257,
+      "volumeQuote": 16.2671
+    },
+    "qryptos:ltcbtc": {
+      "price": {
+        "last": 0.02066789,
+        "high": 0.02175552,
+        "low": 0.01958462,
+        "change": {
+          "percentage": 0.011644131,
+          "absolute": 0.00023788959
+        }
+      },
+      "volume": 205.0464,
+      "volumeQuote": 4.264327
+    },
+    "qryptos:repbtc": {
+      "price": {
+        "last": 0.09522,
+        "high": 0.09522,
+        "low": 0.09522,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0.4,
+      "volumeQuote": 0.038088
+    },
+    "qryptos:xmrbtc": {
+      "price": {
+        "last": 0.02731695,
+        "high": 0.02820401,
+        "low": 0.02731695,
+        "change": {
+          "percentage": -0.031451575,
+          "absolute": -0.00088706054
+        }
+      },
+      "volume": 48.393887,
+      "volumeQuote": 1.346568
+    },
+    "qryptos:xrpbtc": {
+      "price": {
+        "last": 0.00009559,
+        "high": 0.00010367,
+        "low": 0.00009559,
+        "change": {
+          "percentage": -0.053564303,
+          "absolute": -0.0000054099946
+        }
+      },
+      "volume": 11586.207,
+      "volumeQuote": 1.1525913
+    },
+    "qryptos:zecbtc": {
+      "price": {
+        "last": 0.04069505,
+        "high": 0.04380023,
+        "low": 0.04069505,
+        "change": {
+          "percentage": -0.0708942,
+          "absolute": -0.0031051822
+        }
+      },
+      "volume": 60.83576,
+      "volumeQuote": 2.5841732
+    },
+    "quadriga:bchbtc": {
+      "price": {
+        "last": 0.1305901,
+        "high": 0.137,
+        "low": 0.13,
+        "change": {
+          "percentage": -0.046787582,
+          "absolute": -0.0064098984
+        }
+      },
+      "volume": 15.784381,
+      "volumeQuote": 2.110236
+    },
+    "quadriga:bchcad": {
+      "price": {
+        "last": 1885.5,
+        "high": 1960,
+        "low": 1875.01,
+        "change": {
+          "percentage": -0.018275527,
+          "absolute": -35.099976
+        }
+      },
+      "volume": 110.586914,
+      "volumeQuote": 211821.44
+    },
+    "quadriga:btccad": {
+      "price": {
+        "last": 14605.01,
+        "high": 14699.59,
+        "low": 13800,
+        "change": {
+          "percentage": 0.031135961,
+          "absolute": 441.00977
+        }
+      },
+      "volume": 356.4769,
+      "volumeQuote": 5109520.5
+    },
+    "quadriga:btcusd": {
+      "price": {
+        "last": 11501.61,
+        "high": 11798,
+        "low": 11077.8,
+        "change": {
+          "percentage": 0.026929496,
+          "absolute": 301.61035
+        }
+      },
+      "volume": 116.278206,
+      "volumeQuote": 1335354.8
+    },
+    "quadriga:btgbtc": {
+      "price": {
+        "last": 0.01163,
+        "high": 0.01253151,
+        "low": 0.0100008,
+        "change": {
+          "percentage": -0.04828153,
+          "absolute": -0.0005900003
+        }
+      },
+      "volume": 68.44761,
+      "volumeQuote": 0.8208805
+    },
+    "quadriga:btgcad": {
+      "price": {
+        "last": 170.5,
+        "high": 176.99,
+        "low": 166.35,
+        "change": {
+          "percentage": 0.0029411765,
+          "absolute": 0.5
+        }
+      },
+      "volume": 394.23758,
+      "volumeQuote": 68192.195
+    },
+    "quadriga:ethcad": {
+      "price": {
+        "last": 1193.99,
+        "high": 1214.5,
+        "low": 1182.03,
+        "change": {
+          "percentage": 0.0016610435,
+          "absolute": 1.9799805
+        }
+      },
+      "volume": 1359.0287,
+      "volumeQuote": 1624673.8
+    },
+    "quadriga:ethusd": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "quadriga:ltcbtc": {
+      "price": {
+        "last": 0.02121999,
+        "high": 0.02198682,
+        "low": 0.01896708,
+        "change": {
+          "percentage": 0.050556947,
+          "absolute": 0.0010211896
+        }
+      },
+      "volume": 1209.5369,
+      "volumeQuote": 24.679012
+    },
+    "quadriga:ltccad": {
+      "price": {
+        "last": 308,
+        "high": 310,
+        "low": 280.19,
+        "change": {
+          "percentage": 0.088339224,
+          "absolute": 25
+        }
+      },
+      "volume": 10174.738,
+      "volumeQuote": 3064296.8
+    },
+    "quoine:bchjpy": {
+      "price": {
+        "last": 160101,
+        "high": 167791,
+        "low": 160100,
+        "change": {
+          "percentage": -0.023780342,
+          "absolute": -3900
+        }
+      },
+      "volume": 66.171005,
+      "volumeQuote": 10810962
+    },
+    "quoine:bchsgd": {
+      "price": {
+        "last": 1938.1273,
+        "high": 2150,
+        "low": 1861.743,
+        "change": {
+          "percentage": -0.05457204,
+          "absolute": -111.87268
+        }
+      },
+      "volume": 3.5005665,
+      "volumeQuote": 6939.483
+    },
+    "quoine:bchusd": {
+      "price": {
+        "last": 1504.9044,
+        "high": 1559.2997,
+        "low": 1488.49,
+        "change": {
+          "percentage": -0.03488442,
+          "absolute": -54.395264
+        }
+      },
+      "volume": 18.097813,
+      "volumeQuote": 27688.898
+    },
+    "quoine:btcaud": {
+      "price": {
+        "last": 14558.002,
+        "high": 14624.52,
+        "low": 13891.831,
+        "change": {
+          "percentage": 0.032113694,
+          "absolute": 452.96484
+        }
+      },
+      "volume": 112.88931,
+      "volumeQuote": 1608158.2
+    },
+    "quoine:btccny": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "quoine:btceur": {
+      "price": {
+        "last": 9430,
+        "high": 9430,
+        "low": 8860.268,
+        "change": {
+          "percentage": 0.05889468,
+          "absolute": 524.4873
+        }
+      },
+      "volume": 6.6776557,
+      "volumeQuote": 61449.99
+    },
+    "quoine:btchkd": {
+      "price": {
+        "last": 88640.34,
+        "high": 90468.414,
+        "low": 84944.52,
+        "change": {
+          "percentage": 0.043508634,
+          "absolute": 3695.8203
+        }
+      },
+      "volume": 7.251306,
+      "volumeQuote": 644031.44
+    },
+    "quoine:btcidr": {
+      "price": {
+        "last": 149558860,
+        "high": 149893250,
+        "low": 140762800,
+        "change": {
+          "percentage": 0.05072367,
+          "absolute": 7219952
+        }
+      },
+      "volume": 6.343474,
+      "volumeQuote": 915717800
+    },
+    "quoine:btcinr": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "quoine:btcjpy": {
+      "price": {
+        "last": 1247035.1,
+        "high": 1257357.1,
+        "low": 1166000,
+        "change": {
+          "percentage": 0.051543247,
+          "absolute": 61125.625
+        }
+      },
+      "volume": 8839.508,
+      "volumeQuote": 10763732000
+    },
+    "quoine:btcphp": {
+      "price": {
+        "last": 605575,
+        "high": 605575,
+        "low": 593151.25,
+        "change": {
+          "percentage": 0.020945333,
+          "absolute": 12423.75
+        }
+      },
+      "volume": 0.20608118,
+      "volumeQuote": 124708.69
+    },
+    "quoine:btcsgd": {
+      "price": {
+        "last": 15304.4,
+        "high": 15406.463,
+        "low": 14398.986,
+        "change": {
+          "percentage": 0.05055333,
+          "absolute": 736.458
+        }
+      },
+      "volume": 146.0967,
+      "volumeQuote": 2189855.8
+    },
+    "quoine:btcusd": {
+      "price": {
+        "last": 11615.38,
+        "high": 11665,
+        "low": 10890,
+        "change": {
+          "percentage": 0.04643062,
+          "absolute": 515.3799
+        }
+      },
+      "volume": 847.9093,
+      "volumeQuote": 9639622
+    },
+    "quoine:ethaud": {
+      "price": {
+        "last": 1200,
+        "high": 1260.2247,
+        "low": 1200,
+        "change": {
+          "percentage": -0.046146948,
+          "absolute": -58.05542
+        }
+      },
+      "volume": 33.749,
+      "volumeQuote": 42402.96
+    },
+    "quoine:ethbtc": {
+      "price": {
+        "last": 0.08036001,
+        "high": 0.0865,
+        "low": 0.08017,
+        "change": {
+          "percentage": -0.06231016,
+          "absolute": -0.00533998
+        }
+      },
+      "volume": 173.89265,
+      "volumeQuote": 14.452947
+    },
+    "quoine:ethcny": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "quoine:etheur": {
+      "price": {
+        "last": 745,
+        "high": 760,
+        "low": 745,
+        "change": {
+          "percentage": -0.019736841,
+          "absolute": -15
+        }
+      },
+      "volume": 21.246675,
+      "volumeQuote": 16112.72
+    },
+    "quoine:ethhkd": {
+      "price": {
+        "last": 7281.085,
+        "high": 7550,
+        "low": 7275.5,
+        "change": {
+          "percentage": -0.035617884,
+          "absolute": -268.91504
+        }
+      },
+      "volume": 0.8087493,
+      "volumeQuote": 5905.3867
+    },
+    "quoine:ethidr": {
+      "price": {
+        "last": 13572660,
+        "high": 13572660,
+        "low": 12500000,
+        "change": {
+          "percentage": 0.0858128,
+          "absolute": 1072660
+        }
+      },
+      "volume": 2.106304,
+      "volumeQuote": 26363484
+    },
+    "quoine:ethinr": {
+      "price": {
+        "last": 0,
+        "high": 0,
+        "low": 0,
+        "change": {
+          "percentage": 0,
+          "absolute": 0
+        }
+      },
+      "volume": 0,
+      "volumeQuote": 0
+    },
+    "quoine:ethjpy": {
+      "price": {
+        "last": 100210,
+        "high": 104430,
+        "low": 100000,
+        "change": {
+          "percentage": -0.031597532,
+          "absolute": -3269.7031
+        }
+      },
+      "volume": 1160.8475,
+      "volumeQuote": 117999290
+    },
+    "quoine:ethphp": {
+      "price": {
+        "last": 49838.43,
+        "high": 49838.43,
+        "low": 49215.38,
+        "change": {
+          "percentage": 0.012659676,
+          "absolute": 623.0508
+        }
+      },
+      "volume": 0.6,
+      "volumeQuote": 29778.45
+    },
+    "quoine:ethsgd": {
+      "price": {
+        "last": 1241,
+        "high": 1295,
+        "low": 1225,
+        "change": {
+          "percentage": 0.012689256,
+          "absolute": 15.550049
+        }
+      },
+      "volume": 94.971466,
+      "volumeQuote": 119904.64
+    },
+    "quoine:ethusd": {
+      "price": {
+        "last": 929,
+        "high": 960,
+        "low": 922,
+        "change": {
+          "percentage": -0.02014553,
+          "absolute": -19.099976
+        }
+      },
+      "volume": 1220.5355,
+      "volumeQuote": 1141507.5
+    }
+  },
+  "allowance": {
+    "cost": 7804229,
+    "remaining": 7992195771
+  }
+}
