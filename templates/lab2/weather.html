@@ -1,28 +1,28 @@
 {% load static %}
 <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-        <img src="http://b1-q.mafengwo.net/s8/M00/02/BF/wKgBpVWnJL6AfCcFAA_oZSqEvVE56.jpeg?imageMogr2%2Fthumbnail%2F%21690x370r%2Fgravity%2FCenter%2Fcrop%2F%21690x370%2Fquality%2F100">
-    </div>
-    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">{{ data.location }}
-                            <img src="{{ data.icon_url }}">
-                            {{ data.temperature }}
-                            <i class="material-icons right">more_vert</i></span>
-        <p><a href="{{ data.forecast_url }}">Forecast</a></p>
+  <div class="card-image waves-effect waves-block waves-light">
+    <img src="http://b1-q.mafengwo.net/s8/M00/02/BF/wKgBpVWnJL6AfCcFAA_oZSqEvVE56.jpeg?imageMogr2%2Fthumbnail%2F%21690x370r%2Fgravity%2FCenter%2Fcrop%2F%21690x370%2Fquality%2F100">
+  </div>
+  <div class="card-content">
+    <span class="card-title activator grey-text text-darken-4">{{ data.location }}
+      <img src="{{ data.icon_url }}">
+      {{ data.temperature }}
+      <i class="material-icons right">more_vert</i></span>
+    <p><a href="{{ data.forecast_url }}">Forecast</a></p>
 
-    </div>
-    <div class="card-reveal">
+  </div>
+  <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">{{ data.weather }}<i
                                 class="material-icons right">close</i></span>
-        <div class="col s2">
-            <img width="120%" src="{{ data.icon_url }}">
+    <div class="col s2">
+      <img width="120%" src="{{ data.icon_url }}">
 
-        </div>
-        <div class="col push-s2">
-            <p class="grey-text text-darken-4"><span class="card-title">Humid:</span> {{ data.humid }}</p>
-            <p class="grey-text text-darken-4"><span class="card-title">WindChill:</span> {{ data.windchill }}</p>
-            <p class=" grey-text text-darken-4"><span class="card-title">Wind:</span> {{ data.wind }}</p>
-            <p class="" style="position: fixed;bottom: 0;width:100%;">{{ data.time }}</p>
-        </div>
     </div>
+    <div class="col push-s2">
+      <p class="grey-text text-darken-4"><span class="card-title">Humid:</span> {{ data.humid }}</p>
+      <p class="grey-text text-darken-4"><span class="card-title">WindChill:</span> {{ data.windchill }}</p>
+      <p class=" grey-text text-darken-4"><span class="card-title">Wind:</span> {{ data.wind }}</p>
+      <p class="" style="position: fixed;bottom: 0;width:100%;">{{ data.time }}</p>
+    </div>
+  </div>
 </div>

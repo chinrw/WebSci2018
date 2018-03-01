@@ -1,9 +1,9 @@
-    {% load static %}
-    {% for message in context %}
-        <li class="collection-item avatar">
-            <img src="{{ message.icon }}" alt="" class="circle">
-            <p>{{ message.text }} <br>
-            </p>
-{#            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>#}
-        </li>
-    {% endfor %}
+{% load static %}
+{% for message in context %}
+  <li class="collection-item avatar">
+    <img src="{{ message.icon }}" alt="" class="circle">
+    <p>{{ message.text }} <br>
+    </p>
+    {#            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>#}
+  </li>
+{% endfor %}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html ng-app="test">
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+<body>
+<div>
+  <label>Name:</label>
+  <input type="text" ng-model="yourName" placeholder="Enter a name here">
+  <hr>
+  {% verbatim %}
+  <h1>Hello {{yourName}}!</h1>
+  {% endverbatim %}
+
+</div>
+
+<div ng-controller="TestCtrl">
+  {% verbatim %}
+  <div>
+    {{ data | json }}
+  </div>
+  {% endverbatim %}
+
+</div>
+
+<script>
+  {##}
+  {#    var app = angular.module('test', []);#}
+  {#    app.factory('MyService', function ($http, $q) {#}
+  {##}
+  {#        /////////////////////////////////////////////////////////////#}
+  {#        // put your url here:////////////////////////////////////////#}
+  {#        /////////////////////////////////////////////////////////////#}
+  {#        var url = "http://api.wunderground.com/api/3dfa9f9c19a712ac/conditions/q/CA/San_Francisco.json";#}
+  {##}
+  {##}
+  {#        #}
+  {#        #}
+  {#        this.fetchAll = function () {#}
+  {#            var deferred = $q.defer();#}
+  {#            console.log('here1');#}
+  {#            $http.jsonp(url).success(function (data) {#}
+  {#                console.log('here2');#}
+  {#                deferred.resolve(angular.fromJson(data));#}
+  {#            }).error(function (data, status, headers, config) {#}
+  {#                console.log('here3');#}
+  {#                console.log(status);#}
+  {#                deferred.reject(data, status, headers, config);#}
+  {#            });#}
+  {#            return deferred.promise;#}
+  {#        };#}
+  {#        return this;#}
+  {#    });#}
+  {##}
+  {##}
+  {#    app.controller('jsonp_example', function ($scope, MyService) {#}
+  {#        $scope.data = {};#}
+  {##}
+  {#        $scope.doRequest = function () {#}
+  {#            MyService.fetchAll().then(onSucess, onError);#}
+  {##}
+  {#            function onSucess(response) {#}
+  {#                $scope.data = response;#}
+  {#            }#}
+  {##}
+  {#            function onError() {#}
+  {#                alert("Cant get data ");#}
+  {#            }#}
+  {##}
+  {##}
+  {#        };#}
+  {##}
+  {##}
+  {#    });#}
+
+  var app = angular.module('test', []);
+  app.controller('TestCtrl', function ($scope, $http) {
+    $http.get("http://api.wunderground.com/api/3dfa9f9c19a712ac/conditions/q/CA/San_Francisco.json").then(function (res, status, xhr) {
+      console.log('here1');
+      $scope.data = res.data;
+      $scope.lol = res.data;
+      console.log($scope.data['current_observation']);
+    });
+  });
+
+</script>
+</body>
+</html>

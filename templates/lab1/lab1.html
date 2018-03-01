@@ -2,34 +2,35 @@
 <html lang="en">
 {% load static %}
 <head>
-    <meta charset="UTF-8">
-    <title>Lab1</title>
+  <meta charset="UTF-8">
+  <title>Lab1</title>
 
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="{% static "materializecss/sass/materialize.css" %}" media="screen,projection"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Import materialize.css-->
+  <link type="text/css" rel="stylesheet" href="{% static "materializecss/sass/materialize.css" %}"
+        media="screen,projection"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <!--Let browser know website is optimized for mobile-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 </head>
 <body>
 <nav>
-    <div class="nav-wrapper">
-        <p class="center-align" style="font-size: 30px">Lab 1</p>
-    </div>
+  <div class="nav-wrapper">
+    <p class="center-align" style="font-size: 30px">Lab 1</p>
+  </div>
 </nav>
 <main>
-    <div class="container">
-        <div class="row">
-            <div class="col s8 push-s2" style="margin-top: 10%">
-                <ul class="collection col s12 z-depth-2" id="_appendHere">
-                </ul>
-            </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col s8 push-s2" style="margin-top: 10%">
+        <ul class="collection col s12 z-depth-2" id="_appendHere">
+        </ul>
+      </div>
     </div>
+  </div>
 </main>
 
 <!--Import jQuery before materialize.js-->
@@ -37,38 +38,38 @@
 <script type="text/javascript" src="{% static "materializecss/js/bin/materialize.min.js" %}"></script>
 
 <script>
-    $('main').hide();
-    var append_increment = 0;
+  $('main').hide();
+  var append_increment = 0;
+  $.ajax({
+    type: "GET",
+    url: "{% url 'lab1:tables' %}",  // URL to your view that serves new info
+    data: {'append_increment': append_increment}
+  })
+      .done(function (response) {
+        $('#_appendHere').html(response).fadeIn('slow', function () {
+          $('main').show();
+        });
+        append_increment += 1;
+      });
+
+  $.fn.send_request = function () {
     $.ajax({
-        type: "GET",
-        url: "{% url 'lab1:tables' %}",  // URL to your view that serves new info
-        data: {'append_increment': append_increment}
+      type: "GET",
+      url: "{% url 'lab1:tables' %}",  // URL to your view that serves new info
+      data: {'append_increment': append_increment}
     })
         .done(function (response) {
-            $('#_appendHere').html(response).fadeIn('slow', function () {
-                $('main').show();
-            });
-            append_increment += 1;
+          $('#_appendHere').fadeOut('slow', function () {
+            $('#_appendHere').html(response).fadeIn('slow')
+          });
+          append_increment += 1;
         });
+  };
+  $.fn.send_request();
 
-    $.fn.send_request = function () {
-        $.ajax({
-            type: "GET",
-            url: "{% url 'lab1:tables' %}",  // URL to your view that serves new info
-            data: {'append_increment': append_increment}
-        })
-            .done(function (response) {
-                $('#_appendHere').fadeOut('slow', function () {
-                    $('#_appendHere').html(response).fadeIn('slow')
-                });
-                append_increment += 1;
-            });
-    };
+  setInterval(function () {
     $.fn.send_request();
-
-    setInterval(function () {
-        $.fn.send_request();
-    }, 5000)
+  }, 5000)
 </script>
 
 </body>
