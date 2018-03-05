@@ -41,6 +41,9 @@ Open the browser at http://127.0.0.1:8000/lab1
 ### Lab2
 Open the browser at http://127.0.0.1:8000/lab2
 
+### Lab4
+Open the browser at http://127.0.0.1:8000/lab4
+
 
 ## Why Django as Back-End Framework
 

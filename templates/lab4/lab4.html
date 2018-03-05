@@ -1,88 +1,111 @@
 <!DOCTYPE html>
+{% load static %}
+
 <html ng-app="test">
+
 <head>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+          integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+          crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+          integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+          crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 
 </head>
 <body>
-<div>
-  <label>Name:</label>
-  <input type="text" ng-model="yourName" placeholder="Enter a name here">
-  <hr>
-  {% verbatim %}
-  <h1>Hello {{yourName}}!</h1>
-  {% endverbatim %}
 
-</div>
-
-<div ng-controller="TestCtrl">
-  {% verbatim %}
-  <div>
-    {{ data | json }}
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="{% url 'lab4:index' %}">Lab4</a></li>
+        <li><a href="{% url 'lab1:index' %}">Lab1</a></li>
+        <li><a href="{% url 'lab2:index' %}">Lab2</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{% url 'admin:index' %}"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
   </div>
-  {% endverbatim %}
+</nav>
+<main>
 
-</div>
 
+  <div ng-controller="TestCtrl">
+    {% verbatim %}
+    <div class="container ">
+      <div class="row">
+        <div class="col-md-8 col-md-push-2 col-12">
+          <div class="card text-center rounded align-self-center"
+               style="border: 10px solid rgba(0,0,0,.125);border-radius: 10px;margin-top: 10%; padding: 10%;">
+            <h1 class="card-header text-info" ng-bind="data['location']">
+            </h1>
+            <div class="card-block">
+              <h4 class="card-title text-white">Current Weather</h4>
+              <img ng-src="{{ data['icon_url']}}" src="">
+              {{ data['temperature'] }}
+
+              <h4 class="grey-text text-darken-4"><span class="card-title">Humid:</span>{{data['humid']}} </h4>
+              <h4 class="grey-text text-darken-4"><span class="card-title">WindChill:</span> {{ data['windchill'] }}
+              </h4>
+              <h4 class=" grey-text text-darken-4"><span class="card-title">Wind:</span> {{ data['wind'] }}</h4>
+              <a ng-href="{{data['forecast_url']}}" class="btn btn-primary">Forecast</a>
+            </div>
+            <div ng-bind="data['time']" class="card-footer text-muted">
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    {% endverbatim %}
+
+  </div>
+</main>
 <script>
-  {##}
-  {#    var app = angular.module('test', []);#}
-  {#    app.factory('MyService', function ($http, $q) {#}
-  {##}
-  {#        /////////////////////////////////////////////////////////////#}
-  {#        // put your url here:////////////////////////////////////////#}
-  {#        /////////////////////////////////////////////////////////////#}
-  {#        var url = "http://api.wunderground.com/api/3dfa9f9c19a712ac/conditions/q/CA/San_Francisco.json";#}
-  {##}
-  {##}
-  {#        #}
-  {#        #}
-  {#        this.fetchAll = function () {#}
-  {#            var deferred = $q.defer();#}
-  {#            console.log('here1');#}
-  {#            $http.jsonp(url).success(function (data) {#}
-  {#                console.log('here2');#}
-  {#                deferred.resolve(angular.fromJson(data));#}
-  {#            }).error(function (data, status, headers, config) {#}
-  {#                console.log('here3');#}
-  {#                console.log(status);#}
-  {#                deferred.reject(data, status, headers, config);#}
-  {#            });#}
-  {#            return deferred.promise;#}
-  {#        };#}
-  {#        return this;#}
-  {#    });#}
-  {##}
-  {##}
-  {#    app.controller('jsonp_example', function ($scope, MyService) {#}
-  {#        $scope.data = {};#}
-  {##}
-  {#        $scope.doRequest = function () {#}
-  {#            MyService.fetchAll().then(onSucess, onError);#}
-  {##}
-  {#            function onSucess(response) {#}
-  {#                $scope.data = response;#}
-  {#            }#}
-  {##}
-  {#            function onError() {#}
-  {#                alert("Cant get data ");#}
-  {#            }#}
-  {##}
-  {##}
-  {#        };#}
-  {##}
-  {##}
-  {#    });#}
 
   var app = angular.module('test', []);
   app.controller('TestCtrl', function ($scope, $http) {
     $http.get("http://api.wunderground.com/api/3dfa9f9c19a712ac/conditions/q/CA/San_Francisco.json").then(function (res, status, xhr) {
       console.log('here1');
-      $scope.data = res.data;
-      $scope.lol = res.data;
-      console.log($scope.data['current_observation']);
+      var json_data = res.data;
+      if ('current_observation' in json_data) {
+        console.log('here2');
+        $scope.get_data = true;
+        $scope.data = {
+          'location': json_data["current_observation"]["display_location"]["full"],
+          'weather': json_data["current_observation"]["weather"],
+          'windchill': json_data["current_observation"]['windchill_string'],
+          'temperature': json_data["current_observation"]['temperature_string'],
+          'time': json_data["current_observation"]["observation_time"],
+          'wind': json_data["current_observation"]["wind_string"],
+          'humid': json_data["current_observation"]["relative_humidity"],
+          'icon_url': json_data["current_observation"]["icon_url"],
+          'forecast_url': json_data["current_observation"]["forecast_url"]
+        }
+
+      }
     });
   });
 
